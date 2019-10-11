@@ -1,0 +1,2608 @@
+Time:         2019-02-22 03:54:56
+{'voltage_mv': 237679, 'current_ma': 16, 'power_mw': 0, 'total_wh': 543}
+Time:         2019-02-22 03:56:51
+{'voltage_mv': 237990, 'current_ma': 15, 'power_mw': 0, 'total_wh': 543}
+Time:         2019-02-22 03:58:15
+{'voltage_mv': 238142, 'current_ma': 15, 'power_mw': 0, 'total_wh': 543}
+Time:         2019-02-22 04:41:11
+{'voltage_mv': 237581, 'current_ma': 15, 'power_mw': 0, 'total_wh': 592}
+Time:         2019-02-22 05:01:10
+{'voltage_mv': 237234, 'current_ma': 15, 'power_mw': 0, 'total_wh': 592}
+Time:         2019-02-22 05:21:11
+{'voltage_mv': 237210, 'current_ma': 15, 'power_mw': 0, 'total_wh': 592}
+Time:         2019-02-22 05:41:11
+{'voltage_mv': 236982, 'current_ma': 15, 'power_mw': 0, 'total_wh': 592}
+Time:         2019-02-22 11:12:35
+{'voltage_mv': 216927, 'current_ma': 16, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 11:21:11
+{'voltage_mv': 217473, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 11:41:12
+{'voltage_mv': 228464, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 12:01:11
+{'voltage_mv': 229742, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 12:21:11
+{'voltage_mv': 229100, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 12:41:11
+{'voltage_mv': 226986, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 13:21:10
+{'voltage_mv': 230906, 'current_ma': 16, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 13:41:11
+{'voltage_mv': 225444, 'current_ma': 16, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 14:19:09
+{'voltage_mv': 229120, 'current_ma': 15, 'power_mw': 0, 'total_wh': 760}
+Time:         2019-02-22 14:21:10
+{'voltage_mv': 221028, 'current_ma': 8746, 'power_mw': 1928014, 'total_wh': 819}
+Time:         2019-02-22 14:41:11
+{'voltage_mv': 225134, 'current_ma': 692, 'power_mw': 88384, 'total_wh': 956}
+Time:         2019-02-22 15:01:11
+{'voltage_mv': 228178, 'current_ma': 695, 'power_mw': 90510, 'total_wh': 987}
+Time:         2019-02-22 15:46:21
+{'voltage_mv': 229367, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1051}
+Time:         2019-02-22 18:35:26
+{'voltage_mv': 212102, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1051}
+Time:         2019-02-22 18:41:12
+{'voltage_mv': 209843, 'current_ma': 7890, 'power_mw': 1655725, 'total_wh': 1106}
+Time:         2019-02-22 19:01:12
+{'voltage_mv': 220939, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1124}
+Time:         2019-02-22 19:21:11
+{'voltage_mv': 222191, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1124}
+Time:         2019-02-22 19:43:28
+{'voltage_mv': 229737, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1124}
+Time:         2019-02-23 06:03:23
+{'voltage_mv': 234807, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1284}
+Time:         2019-02-23 06:23:17
+{'voltage_mv': 234369, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1284}
+Time:         2019-02-24 13:35:01
+{'voltage_mv': 225588, 'current_ma': 16, 'power_mw': 0, 'total_wh': 217}
+Time:         2019-02-24 13:54:55
+{'voltage_mv': 224003, 'current_ma': 15, 'power_mw': 0, 'total_wh': 217}
+Time:         2019-02-24 14:14:56
+{'voltage_mv': 223401, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:31:36
+Time:         2019-02-24 14:31:38
+Time:         2019-02-24 14:31:40
+{'voltage_mv': 229976, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+{'voltage_mv': 229841, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:31:44
+Time:         2019-02-24 14:31:46
+{'voltage_mv': 229390, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:31:50
+Time:         2019-02-24 14:31:52
+Time:         2019-02-24 14:31:53
+{'voltage_mv': 230766, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:31:56
+Time:         2019-02-24 14:31:58
+{'voltage_mv': 231124, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:01
+{'voltage_mv': 230581, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+{'voltage_mv': 228467, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:06
+{'voltage_mv': 228409, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:09
+{'voltage_mv': 228395, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:12
+{'voltage_mv': 229315, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:15
+{'voltage_mv': 229783, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:19
+Time:         2019-02-24 14:32:22
+{'voltage_mv': 229590, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+Time:         None
+Time:         2019-02-24 14:32:26
+Time:         2019-02-24 14:32:29
+{'voltage_mv': 231517, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 231517, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:33
+{'voltage_mv': 231708, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:36
+Time:         2019-02-24 14:32:36
+Time:         2019-02-24 14:32:41
+Time:         2019-02-24 14:32:42
+{'voltage_mv': 229795, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+Time:         2019-02-24 14:32:46
+{'voltage_mv': 230337, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+{'voltage_mv': 229791, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+{'voltage_mv': 230246, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:53
+{'voltage_mv': 229721, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:32:55
+Time:         2019-02-24 14:32:57
+{'voltage_mv': 227988, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:00
+{'voltage_mv': 228104, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:03
+{'voltage_mv': 229791, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:07
+{'voltage_mv': 230396, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:10
+Time:         2019-02-24 14:33:11
+Time:         None
+{'voltage_mv': 229280, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 229144, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:14
+Time:         2019-02-24 14:33:16
+{'voltage_mv': 228773, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:19
+{'voltage_mv': 229116, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:22
+{'voltage_mv': 229459, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:25
+Time:         2019-02-24 14:33:25
+Time:         2019-02-24 14:33:28
+{'voltage_mv': 228502, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 229010, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:32
+Time:         2019-02-24 14:33:33
+Time:         2019-02-24 14:33:36
+Time:         2019-02-24 14:33:37
+Time:         2019-02-24 14:33:39
+{'voltage_mv': 230410, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:41
+Time:         2019-02-24 14:33:42
+Time:         2019-02-24 14:33:44
+{'voltage_mv': 229283, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 229603, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:48
+{'voltage_mv': 230179, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:50
+Time:         2019-02-24 14:33:52
+Time:         2019-02-24 14:33:53
+Time:         2019-02-24 14:33:55
+{'voltage_mv': 229917, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:33:59
+Time:         2019-02-24 14:34:02
+Time:         2019-02-24 14:34:04
+{'voltage_mv': 230893, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:07
+Time:         2019-02-24 14:34:10
+Time:         None
+Time:         2019-02-24 14:34:12
+Time:         2019-02-24 14:34:14
+Time:         2019-02-24 14:34:15
+{'voltage_mv': 229172, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:18
+{'voltage_mv': 230183, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:22
+{'voltage_mv': 230492, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 230492, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+Time:         2019-02-24 14:34:28
+Time:         2019-02-24 14:34:30
+Time:         None
+Time:         2019-02-24 14:34:32
+{'voltage_mv': 229070, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:34
+{'voltage_mv': 230354, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:41
+Time:         2019-02-24 14:34:42
+Time:         2019-02-24 14:34:45
+Time:         2019-02-24 14:34:45
+{'voltage_mv': 229980, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:34:53
+Time:         2019-02-24 14:34:55
+{'voltage_mv': 229128, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 227257, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:02
+{'voltage_mv': 228007, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+{'voltage_mv': 229722, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:06
+Time:         2019-02-24 14:35:07
+{'voltage_mv': 229636, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:12
+{'voltage_mv': 229088, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:14
+{'voltage_mv': 228933, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:19
+Time:         2019-02-24 14:35:21
+Time:         2019-02-24 14:35:22
+Time:         2019-02-24 14:35:24
+Time:         None
+Time:         2019-02-24 14:35:27
+Time:         2019-02-24 14:35:31
+Time:         2019-02-24 14:35:32
+{'voltage_mv': 230400, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:35
+Time:         None
+Time:         2019-02-24 14:35:40
+{'voltage_mv': 230266, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+{'voltage_mv': 230266, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         None
+Time:         2019-02-24 14:35:43
+Time:         None
+Time:         2019-02-24 14:35:44
+{'voltage_mv': 228319, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:35:47
+Time:         2019-02-24 14:35:49
+Time:         2019-02-24 14:35:51
+Time:         2019-02-24 14:36:02
+{'voltage_mv': 227755, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:36:15
+{'voltage_mv': 229109, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:36:26
+{'voltage_mv': 227840, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:36:38
+{'voltage_mv': 228096, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:36:51
+{'voltage_mv': 228253, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:37:02
+{'voltage_mv': 228377, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:37:16
+{'voltage_mv': 227867, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:37:27
+{'voltage_mv': 226995, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:37:38
+{'voltage_mv': 227331, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:37:50
+{'voltage_mv': 228845, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:38:03
+{'voltage_mv': 226972, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:38:14
+{'voltage_mv': 225959, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:38:28
+{'voltage_mv': 227614, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:38:39
+{'voltage_mv': 227141, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:38:52
+{'voltage_mv': 226637, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:39:03
+{'voltage_mv': 225915, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:39:16
+{'voltage_mv': 226175, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:39:27
+Time:         2019-02-24 14:39:37
+{'voltage_mv': 227210, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:39:50
+{'voltage_mv': 227307, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:40:01
+{'voltage_mv': 228976, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:40:13
+{'voltage_mv': 229150, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:40:24
+{'voltage_mv': 229568, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:40:36
+{'voltage_mv': 228058, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:40:49
+{'voltage_mv': 229822, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:41:00
+{'voltage_mv': 230380, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:41:13
+{'voltage_mv': 228743, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:41:24
+{'voltage_mv': 228870, 'current_ma': 16, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-24 14:41:40
+{'voltage_mv': 231265, 'current_ma': 15, 'power_mw': 0, 'total_wh': 264}
+Time:         2019-02-25 12:00:57
+{'voltage_mv': 230883, 'current_ma': 15, 'power_mw': 0, 'total_wh': 432}
+Time:         2019-02-25 12:20:52
+{'voltage_mv': 234043, 'current_ma': 15, 'power_mw': 0, 'total_wh': 432}
+Time:         2019-02-26 22:01:06
+{'voltage_mv': 220449, 'current_ma': 8294, 'power_mw': 1828454, 'total_wh': 588}
+Time:         2019-02-26 22:03:00
+{'voltage_mv': 224600, 'current_ma': 8452, 'power_mw': 1898407, 'total_wh': 648}
+Time:         2019-02-26 22:04:00
+{'voltage_mv': 226361, 'current_ma': 8516, 'power_mw': 1927717, 'total_wh': 680}
+Time:         2019-02-26 22:05:00
+{'voltage_mv': 225530, 'current_ma': 8483, 'power_mw': 1913233, 'total_wh': 713}
+Time:         2019-02-26 22:06:00
+{'voltage_mv': 224308, 'current_ma': 8437, 'power_mw': 1892563, 'total_wh': 745}
+Time:         2019-02-26 22:07:00
+{'voltage_mv': 227384, 'current_ma': 15, 'power_mw': 0, 'total_wh': 765}
+Time:         2019-02-26 22:08:00
+{'voltage_mv': 229934, 'current_ma': 15, 'power_mw': 0, 'total_wh': 765}
+Time:         2019-02-26 22:09:01
+{'voltage_mv': 225651, 'current_ma': 6820, 'power_mw': 1464690, 'total_wh': 769}
+Time:         2019-02-26 22:10:00
+{'voltage_mv': 224754, 'current_ma': 6742, 'power_mw': 1445785, 'total_wh': 793}
+Time:         2019-02-26 22:13:01
+{'voltage_mv': 228278, 'current_ma': 16, 'power_mw': 0, 'total_wh': 837}
+Time:         2019-02-26 22:14:00
+{'voltage_mv': 229770, 'current_ma': 16, 'power_mw': 0, 'total_wh': 837}
+Time:         2019-02-26 22:15:00
+{'voltage_mv': 229640, 'current_ma': 16, 'power_mw': 0, 'total_wh': 837}
+Time:         2019-03-04 21:55:49
+{'voltage_mv': 224125, 'current_ma': 73, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-04 21:56:44
+{'voltage_mv': 223384, 'current_ma': 72, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-04 21:57:44
+{'voltage_mv': 224195, 'current_ma': 73, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-04 21:58:44
+{'voltage_mv': 224983, 'current_ma': 73, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-04 21:59:44
+{'voltage_mv': 224984, 'current_ma': 146, 'power_mw': 18532, 'total_wh': 0}
+Time:         2019-03-04 22:00:44
+{'voltage_mv': 223214, 'current_ma': 64, 'power_mw': 8071, 'total_wh': 0}
+Time:         2019-03-04 22:01:45
+{'voltage_mv': 223083, 'current_ma': 64, 'power_mw': 7897, 'total_wh': 1}
+Time:         2019-03-04 22:02:44
+{'voltage_mv': 222821, 'current_ma': 77, 'power_mw': 3416, 'total_wh': 1}
+Time:         2019-03-04 22:03:44
+{'voltage_mv': 222489, 'current_ma': 1882, 'power_mw': 108503, 'total_wh': 2}
+Time:         2019-03-04 22:04:44
+{'voltage_mv': 223619, 'current_ma': 77, 'power_mw': 3439, 'total_wh': 3}
+Time:         2019-03-04 22:05:44
+{'voltage_mv': 224294, 'current_ma': 78, 'power_mw': 3362, 'total_wh': 4}
+Time:         2019-03-04 22:06:44
+{'voltage_mv': 225572, 'current_ma': 77, 'power_mw': 3202, 'total_wh': 5}
+Time:         2019-03-04 22:07:44
+{'voltage_mv': 222719, 'current_ma': 2241, 'power_mw': 135418, 'total_wh': 6}
+Time:         2019-03-04 22:08:44
+{'voltage_mv': 225509, 'current_ma': 77, 'power_mw': 3433, 'total_wh': 7}
+Time:         2019-03-04 22:09:44
+{'voltage_mv': 228641, 'current_ma': 78, 'power_mw': 3318, 'total_wh': 8}
+Time:         2019-03-04 22:10:44
+{'voltage_mv': 228985, 'current_ma': 2430, 'power_mw': 149927, 'total_wh': 9}
+Time:         2019-03-04 22:11:44
+{'voltage_mv': 227125, 'current_ma': 4129, 'power_mw': 257376, 'total_wh': 10}
+Time:         2019-03-04 22:12:44
+{'voltage_mv': 228458, 'current_ma': 78, 'power_mw': 3316, 'total_wh': 11}
+Time:         2019-03-04 22:13:44
+{'voltage_mv': 227813, 'current_ma': 77, 'power_mw': 3099, 'total_wh': 12}
+Time:         2019-03-04 22:14:44
+{'voltage_mv': 227053, 'current_ma': 2310, 'power_mw': 138878, 'total_wh': 13}
+Time:         2019-03-04 22:15:44
+{'voltage_mv': 226606, 'current_ma': 78, 'power_mw': 3279, 'total_wh': 14}
+Time:         2019-03-04 22:16:44
+{'voltage_mv': 226035, 'current_ma': 64, 'power_mw': 7774, 'total_wh': 15}
+Time:         2019-03-04 22:17:46
+{'voltage_mv': 225828, 'current_ma': 77, 'power_mw': 2850, 'total_wh': 16}
+Time:         2019-03-04 22:18:44
+{'voltage_mv': 223996, 'current_ma': 4210, 'power_mw': 256723, 'total_wh': 17}
+Time:         2019-03-04 22:19:44
+{'voltage_mv': 224396, 'current_ma': 77, 'power_mw': 3297, 'total_wh': 18}
+Time:         2019-03-04 22:20:44
+{'voltage_mv': 226759, 'current_ma': 79, 'power_mw': 3098, 'total_wh': 20}
+Time:         2019-03-04 22:21:44
+{'voltage_mv': 227891, 'current_ma': 2878, 'power_mw': 169088, 'total_wh': 21}
+Time:         2019-03-04 22:22:44
+{'voltage_mv': 230235, 'current_ma': 79, 'power_mw': 3285, 'total_wh': 22}
+Time:         2019-03-04 22:23:43
+{'voltage_mv': 230294, 'current_ma': 79, 'power_mw': 3188, 'total_wh': 23}
+Time:         2019-03-04 22:24:44
+{'voltage_mv': 215559, 'current_ma': 8375, 'power_mw': 1758933, 'total_wh': 55}
+Time:         2019-03-04 22:25:44
+{'voltage_mv': 214204, 'current_ma': 8649, 'power_mw': 1773419, 'total_wh': 85}
+Time:         2019-03-04 22:26:44
+{'voltage_mv': 213961, 'current_ma': 7689, 'power_mw': 1645128, 'total_wh': 114}
+Time:         2019-03-04 22:27:43
+{'voltage_mv': 212472, 'current_ma': 8662, 'power_mw': 1756225, 'total_wh': 142}
+Time:         2019-03-04 22:28:43
+{'voltage_mv': 211593, 'current_ma': 8485, 'power_mw': 1725662, 'total_wh': 172}
+Time:         2019-03-04 22:29:43
+{'voltage_mv': 210856, 'current_ma': 8974, 'power_mw': 1759274, 'total_wh': 200}
+Time:         2019-03-04 22:30:44
+{'voltage_mv': 210605, 'current_ma': 8524, 'power_mw': 1712982, 'total_wh': 229}
+Time:         2019-03-04 22:31:43
+{'voltage_mv': 218965, 'current_ma': 7871, 'power_mw': 1723528, 'total_wh': 259}
+Time:         2019-03-04 22:32:43
+{'voltage_mv': 225348, 'current_ma': 6282, 'power_mw': 1092183, 'total_wh': 289}
+Time:         2019-03-04 22:33:44
+{'voltage_mv': 229290, 'current_ma': 2255, 'power_mw': 96889, 'total_wh': 291}
+Time:         2019-03-04 22:34:43
+{'voltage_mv': 228532, 'current_ma': 2247, 'power_mw': 100748, 'total_wh': 293}
+Time:         2019-03-04 22:35:43
+{'voltage_mv': 230027, 'current_ma': 79, 'power_mw': 3133, 'total_wh': 294}
+Time:         2019-03-04 22:36:43
+{'voltage_mv': 229496, 'current_ma': 2382, 'power_mw': 119038, 'total_wh': 295}
+Time:         2019-03-04 22:37:44
+{'voltage_mv': 228047, 'current_ma': 2383, 'power_mw': 116505, 'total_wh': 297}
+Time:         2019-03-04 22:38:43
+{'voltage_mv': 230541, 'current_ma': 1614, 'power_mw': 62731, 'total_wh': 298}
+Time:         2019-03-04 22:39:43
+{'voltage_mv': 231218, 'current_ma': 2598, 'power_mw': 117340, 'total_wh': 300}
+Time:         2019-03-04 22:40:44
+{'voltage_mv': 225482, 'current_ma': 77, 'power_mw': 3131, 'total_wh': 301}
+Time:         2019-03-04 22:41:44
+{'voltage_mv': 227847, 'current_ma': 2524, 'power_mw': 124609, 'total_wh': 303}
+Time:         2019-03-04 22:42:43
+{'voltage_mv': 228905, 'current_ma': 2305, 'power_mw': 109680, 'total_wh': 304}
+Time:         2019-03-04 22:43:43
+{'voltage_mv': 228412, 'current_ma': 215, 'power_mw': 4792, 'total_wh': 305}
+Time:         2019-03-04 22:44:43
+{'voltage_mv': 228877, 'current_ma': 2364, 'power_mw': 101178, 'total_wh': 307}
+Time:         2019-03-04 22:45:44
+{'voltage_mv': 228807, 'current_ma': 2488, 'power_mw': 110321, 'total_wh': 308}
+Time:         2019-03-04 22:46:43
+{'voltage_mv': 229756, 'current_ma': 2268, 'power_mw': 100475, 'total_wh': 310}
+Time:         2019-03-04 22:47:43
+{'voltage_mv': 230401, 'current_ma': 2429, 'power_mw': 119055, 'total_wh': 311}
+Time:         2019-03-04 22:48:43
+{'voltage_mv': 230416, 'current_ma': 1456, 'power_mw': 47218, 'total_wh': 313}
+Time:         2019-03-04 22:49:43
+{'voltage_mv': 228039, 'current_ma': 3015, 'power_mw': 139654, 'total_wh': 314}
+Time:         2019-03-04 22:50:43
+{'voltage_mv': 227907, 'current_ma': 2402, 'power_mw': 104381, 'total_wh': 315}
+Time:         2019-03-04 22:51:43
+{'voltage_mv': 230435, 'current_ma': 78, 'power_mw': 2862, 'total_wh': 317}
+Time:         2019-03-04 22:52:44
+{'voltage_mv': 230430, 'current_ma': 2764, 'power_mw': 137898, 'total_wh': 318}
+Time:         2019-03-04 22:53:44
+{'voltage_mv': 230630, 'current_ma': 2421, 'power_mw': 118235, 'total_wh': 320}
+Time:         2019-03-04 22:54:45
+{'voltage_mv': 231104, 'current_ma': 79, 'power_mw': 3108, 'total_wh': 321}
+Time:         2019-03-04 22:55:45
+{'voltage_mv': 229857, 'current_ma': 2685, 'power_mw': 118569, 'total_wh': 323}
+Time:         2019-03-04 22:56:44
+{'voltage_mv': 230123, 'current_ma': 2631, 'power_mw': 116132, 'total_wh': 324}
+Time:         2019-03-04 22:57:45
+{'voltage_mv': 230180, 'current_ma': 4069, 'power_mw': 199538, 'total_wh': 325}
+Time:         2019-03-04 22:58:44
+{'voltage_mv': 228938, 'current_ma': 2380, 'power_mw': 114317, 'total_wh': 327}
+Time:         2019-03-04 22:59:44
+{'voltage_mv': 231857, 'current_ma': 80, 'power_mw': 3064, 'total_wh': 328}
+Time:         2019-03-04 23:00:44
+{'voltage_mv': 231885, 'current_ma': 2132, 'power_mw': 90611, 'total_wh': 330}
+Time:         2019-03-04 23:01:44
+{'voltage_mv': 228842, 'current_ma': 2589, 'power_mw': 113817, 'total_wh': 331}
+Time:         2019-03-04 23:02:44
+{'voltage_mv': 229530, 'current_ma': 78, 'power_mw': 3208, 'total_wh': 333}
+Time:         2019-03-04 23:03:45
+{'voltage_mv': 228899, 'current_ma': 2438, 'power_mw': 116337, 'total_wh': 334}
+Time:         2019-03-04 23:04:45
+{'voltage_mv': 229627, 'current_ma': 2383, 'power_mw': 113144, 'total_wh': 336}
+Time:         2019-03-04 23:05:45
+{'voltage_mv': 227683, 'current_ma': 2754, 'power_mw': 91716, 'total_wh': 337}
+Time:         2019-03-04 23:06:44
+{'voltage_mv': 228709, 'current_ma': 2356, 'power_mw': 101939, 'total_wh': 338}
+Time:         2019-03-04 23:07:45
+{'voltage_mv': 225079, 'current_ma': 826, 'power_mw': 14912, 'total_wh': 340}
+Time:         2019-03-04 23:08:44
+{'voltage_mv': 224894, 'current_ma': 1647, 'power_mw': 67889, 'total_wh': 341}
+Time:         2019-03-04 23:09:44
+{'voltage_mv': 225594, 'current_ma': 2278, 'power_mw': 105136, 'total_wh': 343}
+Time:         2019-03-04 23:10:45
+{'voltage_mv': 225479, 'current_ma': 77, 'power_mw': 3042, 'total_wh': 344}
+Time:         2019-03-04 23:11:44
+{'voltage_mv': 225753, 'current_ma': 2102, 'power_mw': 86168, 'total_wh': 345}
+Time:         2019-03-04 23:12:45
+{'voltage_mv': 225642, 'current_ma': 2521, 'power_mw': 110158, 'total_wh': 347}
+Time:         2019-03-04 23:13:44
+{'voltage_mv': 225459, 'current_ma': 77, 'power_mw': 3118, 'total_wh': 348}
+Time:         2019-03-04 23:14:45
+{'voltage_mv': 224846, 'current_ma': 2622, 'power_mw': 124166, 'total_wh': 349}
+Time:         2019-03-04 23:15:44
+{'voltage_mv': 227996, 'current_ma': 2204, 'power_mw': 99723, 'total_wh': 351}
+Time:         2019-03-04 23:16:44
+{'voltage_mv': 227263, 'current_ma': 3946, 'power_mw': 190926, 'total_wh': 352}
+Time:         2019-03-04 23:17:44
+{'voltage_mv': 230292, 'current_ma': 2520, 'power_mw': 110102, 'total_wh': 354}
+Time:         2019-03-04 23:18:45
+{'voltage_mv': 230388, 'current_ma': 2281, 'power_mw': 91358, 'total_wh': 355}
+Time:         2019-03-04 23:19:43
+{'voltage_mv': 229156, 'current_ma': 78, 'power_mw': 3166, 'total_wh': 356}
+Time:         2019-03-04 23:20:44
+{'voltage_mv': 228907, 'current_ma': 2510, 'power_mw': 121057, 'total_wh': 358}
+Time:         2019-03-04 23:21:44
+{'voltage_mv': 228624, 'current_ma': 1601, 'power_mw': 52986, 'total_wh': 359}
+Time:         2019-03-04 23:22:44
+{'voltage_mv': 229824, 'current_ma': 2787, 'power_mw': 125823, 'total_wh': 361}
+Time:         2019-03-04 23:23:44
+{'voltage_mv': 229784, 'current_ma': 2497, 'power_mw': 106431, 'total_wh': 362}
+Time:         2019-03-04 23:24:44
+{'voltage_mv': 231547, 'current_ma': 80, 'power_mw': 3139, 'total_wh': 364}
+Time:         2019-03-04 23:26:44
+{'voltage_mv': 230028, 'current_ma': 2524, 'power_mw': 122580, 'total_wh': 367}
+Time:         2019-03-04 23:27:45
+{'voltage_mv': 231173, 'current_ma': 79, 'power_mw': 3252, 'total_wh': 368}
+Time:         2019-03-04 23:28:44
+{'voltage_mv': 229874, 'current_ma': 2780, 'power_mw': 125727, 'total_wh': 370}
+Time:         2019-03-04 23:29:44
+{'voltage_mv': 223658, 'current_ma': 2678, 'power_mw': 116581, 'total_wh': 371}
+Time:         2019-03-04 23:30:46
+{'voltage_mv': 224186, 'current_ma': 1717, 'power_mw': 68530, 'total_wh': 372}
+Time:         2019-03-04 23:31:45
+{'voltage_mv': 223105, 'current_ma': 2762, 'power_mw': 133099, 'total_wh': 374}
+Time:         2019-03-04 23:32:44
+{'voltage_mv': 223148, 'current_ma': 2568, 'power_mw': 120653, 'total_wh': 375}
+Time:         2019-03-04 23:33:44
+{'voltage_mv': 223969, 'current_ma': 2862, 'power_mw': 129185, 'total_wh': 377}
+Time:         2019-03-04 23:34:45
+{'voltage_mv': 223512, 'current_ma': 2606, 'power_mw': 114349, 'total_wh': 378}
+Time:         2019-03-04 23:35:44
+{'voltage_mv': 224397, 'current_ma': 76, 'power_mw': 3205, 'total_wh': 380}
+Time:         2019-03-04 23:36:45
+{'voltage_mv': 230629, 'current_ma': 2433, 'power_mw': 112848, 'total_wh': 381}
+Time:         2019-03-04 23:37:44
+{'voltage_mv': 229793, 'current_ma': 2389, 'power_mw': 109624, 'total_wh': 382}
+Time:         2019-03-04 23:38:45
+{'voltage_mv': 232316, 'current_ma': 344, 'power_mw': 7243, 'total_wh': 384}
+Time:         2019-03-04 23:39:45
+{'voltage_mv': 230942, 'current_ma': 2388, 'power_mw': 101815, 'total_wh': 385}
+Time:         2019-03-04 23:40:44
+{'voltage_mv': 230471, 'current_ma': 2551, 'power_mw': 111706, 'total_wh': 387}
+Time:         2019-03-04 23:41:44
+{'voltage_mv': 230235, 'current_ma': 1458, 'power_mw': 56649, 'total_wh': 388}
+Time:         2019-03-04 23:42:44
+{'voltage_mv': 231417, 'current_ma': 2351, 'power_mw': 107770, 'total_wh': 389}
+Time:         2019-03-04 23:43:45
+{'voltage_mv': 230983, 'current_ma': 79, 'power_mw': 3019, 'total_wh': 391}
+Time:         2019-03-04 23:44:45
+{'voltage_mv': 229714, 'current_ma': 2407, 'power_mw': 103822, 'total_wh': 392}
+Time:         2019-03-04 23:45:45
+{'voltage_mv': 229596, 'current_ma': 2484, 'power_mw': 107408, 'total_wh': 394}
+Time:         2019-03-04 23:46:44
+{'voltage_mv': 230526, 'current_ma': 79, 'power_mw': 3267, 'total_wh': 395}
+Time:         2019-03-04 23:47:45
+{'voltage_mv': 229968, 'current_ma': 2570, 'power_mw': 120200, 'total_wh': 397}
+Time:         2019-03-04 23:48:44
+{'voltage_mv': 230031, 'current_ma': 2576, 'power_mw': 118658, 'total_wh': 398}
+Time:         2019-03-04 23:49:44
+{'voltage_mv': 228878, 'current_ma': 1504, 'power_mw': 34527, 'total_wh': 399}
+Time:         2019-03-04 23:50:44
+{'voltage_mv': 227900, 'current_ma': 2464, 'power_mw': 106116, 'total_wh': 401}
+Time:         2019-03-04 23:51:46
+{'voltage_mv': 229357, 'current_ma': 78, 'power_mw': 3234, 'total_wh': 402}
+Time:         2019-03-04 23:52:44
+{'voltage_mv': 228419, 'current_ma': 2932, 'power_mw': 140313, 'total_wh': 404}
+Time:         2019-03-04 23:53:44
+{'voltage_mv': 230067, 'current_ma': 2402, 'power_mw': 111596, 'total_wh': 405}
+Time:         2019-03-04 23:54:44
+{'voltage_mv': 231622, 'current_ma': 1157, 'power_mw': 25516, 'total_wh': 407}
+Time:         2019-03-04 23:55:44
+{'voltage_mv': 230551, 'current_ma': 3972, 'power_mw': 197672, 'total_wh': 408}
+Time:         2019-03-04 23:56:45
+{'voltage_mv': 232437, 'current_ma': 2502, 'power_mw': 107841, 'total_wh': 409}
+Time:         2019-03-04 23:57:46
+{'voltage_mv': 232935, 'current_ma': 79, 'power_mw': 2794, 'total_wh': 411}
+Time:         2019-03-04 23:58:44
+{'voltage_mv': 232650, 'current_ma': 2400, 'power_mw': 103790, 'total_wh': 412}
+Time:         2019-03-04 23:59:44
+{'voltage_mv': 234215, 'current_ma': 2298, 'power_mw': 105465, 'total_wh': 414}
+Time:         2019-03-05 00:00:44
+{'voltage_mv': 234313, 'current_ma': 80, 'power_mw': 3202, 'total_wh': 415}
+Time:         2019-03-05 00:01:44
+{'voltage_mv': 233365, 'current_ma': 2267, 'power_mw': 94640, 'total_wh': 416}
+Time:         2019-03-05 00:02:44
+{'voltage_mv': 232363, 'current_ma': 2541, 'power_mw': 110590, 'total_wh': 418}
+Time:         2019-03-05 00:03:44
+{'voltage_mv': 229954, 'current_ma': 4219, 'power_mw': 219598, 'total_wh': 419}
+Time:         2019-03-05 00:04:45
+{'voltage_mv': 230559, 'current_ma': 2390, 'power_mw': 111034, 'total_wh': 420}
+Time:         2019-03-05 00:05:48
+{'voltage_mv': 233211, 'current_ma': 2046, 'power_mw': 57315, 'total_wh': 422}
+Time:         2019-03-05 00:08:44
+{'voltage_mv': 234344, 'current_ma': 1456, 'power_mw': 40661, 'total_wh': 426}
+Time:         2019-03-05 00:09:44
+{'voltage_mv': 233809, 'current_ma': 1611, 'power_mw': 61702, 'total_wh': 427}
+Time:         2019-03-05 00:10:44
+{'voltage_mv': 233423, 'current_ma': 2523, 'power_mw': 113912, 'total_wh': 428}
+Time:         2019-03-05 00:11:45
+{'voltage_mv': 235796, 'current_ma': 82, 'power_mw': 2957, 'total_wh': 430}
+Time:         2019-03-05 00:12:45
+{'voltage_mv': 233820, 'current_ma': 2486, 'power_mw': 106095, 'total_wh': 431}
+Time:         2019-03-05 00:13:44
+{'voltage_mv': 232557, 'current_ma': 2432, 'power_mw': 104176, 'total_wh': 432}
+Time:         2019-03-05 00:14:44
+{'voltage_mv': 234189, 'current_ma': 80, 'power_mw': 3163, 'total_wh': 434}
+Time:         2019-03-05 00:15:44
+{'voltage_mv': 233358, 'current_ma': 1771, 'power_mw': 87634, 'total_wh': 435}
+Time:         2019-03-05 00:16:44
+{'voltage_mv': 233845, 'current_ma': 80, 'power_mw': 3302, 'total_wh': 436}
+Time:         2019-03-05 00:17:45
+{'voltage_mv': 233910, 'current_ma': 80, 'power_mw': 3218, 'total_wh': 436}
+Time:         2019-03-05 00:18:44
+{'voltage_mv': 233273, 'current_ma': 80, 'power_mw': 3224, 'total_wh': 436}
+Time:         2019-03-05 00:19:44
+{'voltage_mv': 233154, 'current_ma': 79, 'power_mw': 3193, 'total_wh': 436}
+Time:         2019-03-05 00:20:44
+{'voltage_mv': 234351, 'current_ma': 80, 'power_mw': 3258, 'total_wh': 436}
+Time:         2019-03-05 00:21:44
+{'voltage_mv': 234417, 'current_ma': 1414, 'power_mw': 64892, 'total_wh': 436}
+Time:         2019-03-05 00:22:45
+{'voltage_mv': 234651, 'current_ma': 1439, 'power_mw': 70836, 'total_wh': 437}
+Time:         2019-03-05 00:23:44
+{'voltage_mv': 233577, 'current_ma': 155, 'power_mw': 18874, 'total_wh': 438}
+Time:         2019-03-05 00:24:43
+{'voltage_mv': 233352, 'current_ma': 1353, 'power_mw': 63608, 'total_wh': 439}
+Time:         2019-03-05 00:25:43
+{'voltage_mv': 232044, 'current_ma': 1819, 'power_mw': 222589, 'total_wh': 442}
+Time:         2019-03-05 00:26:43
+{'voltage_mv': 232282, 'current_ma': 2723, 'power_mw': 535069, 'total_wh': 447}
+Time:         2019-03-05 00:27:43
+{'voltage_mv': 232365, 'current_ma': 2720, 'power_mw': 588186, 'total_wh': 457}
+Time:         2019-03-05 00:28:43
+{'voltage_mv': 235057, 'current_ma': 159, 'power_mw': 20323, 'total_wh': 464}
+Time:         2019-03-05 00:29:43
+{'voltage_mv': 233579, 'current_ma': 66, 'power_mw': 8402, 'total_wh': 464}
+Time:         2019-03-05 00:30:43
+{'voltage_mv': 233376, 'current_ma': 67, 'power_mw': 8328, 'total_wh': 464}
+Time:         2019-03-05 00:31:43
+{'voltage_mv': 232140, 'current_ma': 79, 'power_mw': 3268, 'total_wh': 465}
+Time:         2019-03-05 00:32:43
+{'voltage_mv': 234410, 'current_ma': 2529, 'power_mw': 131390, 'total_wh': 467}
+Time:         2019-03-05 00:33:43
+{'voltage_mv': 235405, 'current_ma': 80, 'power_mw': 3011, 'total_wh': 468}
+Time:         2019-03-05 00:34:43
+{'voltage_mv': 234577, 'current_ma': 2835, 'power_mw': 147368, 'total_wh': 469}
+Time:         2019-03-05 00:35:43
+{'voltage_mv': 235268, 'current_ma': 80, 'power_mw': 2970, 'total_wh': 470}
+Time:         2019-03-05 00:36:43
+{'voltage_mv': 233114, 'current_ma': 4717, 'power_mw': 274789, 'total_wh': 472}
+Time:         2019-03-05 00:37:43
+{'voltage_mv': 234749, 'current_ma': 160, 'power_mw': 20057, 'total_wh': 473}
+Time:         2019-03-05 00:38:43
+{'voltage_mv': 234784, 'current_ma': 1415, 'power_mw': 69068, 'total_wh': 474}
+Time:         2019-03-05 00:39:43
+{'voltage_mv': 234797, 'current_ma': 892, 'power_mw': 30839, 'total_wh': 475}
+Time:         2019-03-05 00:40:43
+{'voltage_mv': 235150, 'current_ma': 1622, 'power_mw': 78681, 'total_wh': 476}
+Time:         2019-03-05 00:41:43
+{'voltage_mv': 235190, 'current_ma': 1442, 'power_mw': 71048, 'total_wh': 477}
+Time:         2019-03-05 00:42:43
+{'voltage_mv': 233317, 'current_ma': 2626, 'power_mw': 452445, 'total_wh': 483}
+Time:         2019-03-05 00:43:43
+{'voltage_mv': 233795, 'current_ma': 2065, 'power_mw': 344163, 'total_wh': 489}
+Time:         2019-03-05 00:44:43
+{'voltage_mv': 233966, 'current_ma': 2137, 'power_mw': 362163, 'total_wh': 495}
+Time:         2019-03-05 00:45:43
+{'voltage_mv': 235352, 'current_ma': 69, 'power_mw': 14079, 'total_wh': 498}
+Time:         2019-03-05 00:46:43
+{'voltage_mv': 235175, 'current_ma': 69, 'power_mw': 13824, 'total_wh': 498}
+Time:         2019-03-05 00:47:43
+{'voltage_mv': 234687, 'current_ma': 3439, 'power_mw': 158995, 'total_wh': 498}
+Time:         2019-03-05 00:48:44
+{'voltage_mv': 232778, 'current_ma': 1831, 'power_mw': 96251, 'total_wh': 499}
+Time:         2019-03-05 00:49:43
+{'voltage_mv': 233960, 'current_ma': 1374, 'power_mw': 40173, 'total_wh': 501}
+Time:         2019-03-05 00:50:43
+{'voltage_mv': 233940, 'current_ma': 3841, 'power_mw': 196820, 'total_wh': 502}
+Time:         2019-03-05 00:51:43
+{'voltage_mv': 234813, 'current_ma': 2154, 'power_mw': 119521, 'total_wh': 504}
+Time:         2019-03-05 00:52:43
+{'voltage_mv': 235923, 'current_ma': 1000, 'power_mw': 28057, 'total_wh': 505}
+Time:         2019-03-05 00:53:43
+{'voltage_mv': 236086, 'current_ma': 2422, 'power_mw': 130439, 'total_wh': 506}
+Time:         2019-03-05 01:08:30
+{'voltage_mv': 234987, 'current_ma': 2285, 'power_mw': 416288, 'total_wh': 537}
+Time:         2019-03-05 01:08:44
+{'voltage_mv': 234723, 'current_ma': 2427, 'power_mw': 467446, 'total_wh': 538}
+Time:         2019-03-05 01:09:43
+{'voltage_mv': 235245, 'current_ma': 2295, 'power_mw': 417704, 'total_wh': 545}
+Time:         2019-03-05 01:10:44
+{'voltage_mv': 235188, 'current_ma': 2373, 'power_mw': 509199, 'total_wh': 553}
+Time:         2019-03-05 01:11:44
+{'voltage_mv': 235372, 'current_ma': 2301, 'power_mw': 483647, 'total_wh': 561}
+Time:         2019-03-05 01:12:43
+{'voltage_mv': 235950, 'current_ma': 2274, 'power_mw': 473753, 'total_wh': 569}
+Time:         2019-03-05 01:13:43
+{'voltage_mv': 235307, 'current_ma': 2232, 'power_mw': 457932, 'total_wh': 577}
+Time:         2019-03-05 01:14:43
+{'voltage_mv': 235843, 'current_ma': 2223, 'power_mw': 452410, 'total_wh': 585}
+Time:         2019-03-05 01:15:44
+{'voltage_mv': 235691, 'current_ma': 2227, 'power_mw': 452895, 'total_wh': 593}
+Time:         2019-03-05 01:16:43
+{'voltage_mv': 237539, 'current_ma': 165, 'power_mw': 21950, 'total_wh': 598}
+Time:         2019-03-05 01:17:43
+{'voltage_mv': 236784, 'current_ma': 1419, 'power_mw': 73852, 'total_wh': 599}
+Time:         2019-03-05 01:18:44
+{'voltage_mv': 236942, 'current_ma': 165, 'power_mw': 21527, 'total_wh': 599}
+Time:         2019-03-05 01:19:43
+{'voltage_mv': 236925, 'current_ma': 78, 'power_mw': 547, 'total_wh': 599}
+Time:         2019-03-05 01:20:43
+{'voltage_mv': 237302, 'current_ma': 79, 'power_mw': 541, 'total_wh': 599}
+Time:         2019-03-05 01:21:43
+{'voltage_mv': 237384, 'current_ma': 78, 'power_mw': 571, 'total_wh': 599}
+Time:         2019-03-05 01:22:43
+{'voltage_mv': 236145, 'current_ma': 78, 'power_mw': 495, 'total_wh': 599}
+Time:         2019-03-05 01:23:44
+{'voltage_mv': 236570, 'current_ma': 78, 'power_mw': 533, 'total_wh': 599}
+Time:         2019-03-05 01:24:43
+{'voltage_mv': 236620, 'current_ma': 78, 'power_mw': 545, 'total_wh': 599}
+Time:         2019-03-05 01:25:44
+{'voltage_mv': 238350, 'current_ma': 79, 'power_mw': 561, 'total_wh': 599}
+Time:         2019-03-05 01:26:43
+{'voltage_mv': 238038, 'current_ma': 79, 'power_mw': 537, 'total_wh': 599}
+Time:         2019-03-05 01:27:43
+{'voltage_mv': 238290, 'current_ma': 77, 'power_mw': 0, 'total_wh': 599}
+Time:         2019-03-11 22:25:26
+{'voltage_mv': 229534, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-11 22:26:21
+{'voltage_mv': 226586, 'current_ma': 15, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-11 22:27:22
+{'voltage_mv': 228488, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-11 22:28:22
+{'voltage_mv': 227611, 'current_ma': 2084, 'power_mw': 474529, 'total_wh': 5}
+Time:         2019-03-11 22:29:21
+{'voltage_mv': 227514, 'current_ma': 2084, 'power_mw': 474305, 'total_wh': 13}
+Time:         2019-03-11 22:30:23
+{'voltage_mv': 225551, 'current_ma': 2066, 'power_mw': 466120, 'total_wh': 21}
+Time:         2019-03-11 22:31:21
+{'voltage_mv': 225676, 'current_ma': 2065, 'power_mw': 466140, 'total_wh': 29}
+Time:         2019-03-11 22:32:21
+{'voltage_mv': 227637, 'current_ma': 2082, 'power_mw': 474085, 'total_wh': 37}
+Time:         2019-03-11 22:33:22
+{'voltage_mv': 229597, 'current_ma': 2098, 'power_mw': 481873, 'total_wh': 45}
+Time:         2019-03-11 22:34:21
+{'voltage_mv': 228491, 'current_ma': 2087, 'power_mw': 477064, 'total_wh': 53}
+Time:         2019-03-11 22:35:21
+{'voltage_mv': 225991, 'current_ma': 2064, 'power_mw': 466600, 'total_wh': 61}
+Time:         2019-03-11 22:36:21
+{'voltage_mv': 227475, 'current_ma': 2078, 'power_mw': 472768, 'total_wh': 69}
+Time:         2019-03-11 22:37:21
+{'voltage_mv': 227548, 'current_ma': 2079, 'power_mw': 473066, 'total_wh': 77}
+Time:         2019-03-11 22:38:21
+{'voltage_mv': 226377, 'current_ma': 2068, 'power_mw': 468228, 'total_wh': 85}
+Time:         2019-03-11 22:39:21
+{'voltage_mv': 226790, 'current_ma': 2071, 'power_mw': 469849, 'total_wh': 93}
+Time:         2019-03-11 22:40:21
+{'voltage_mv': 228464, 'current_ma': 2086, 'power_mw': 476678, 'total_wh': 101}
+Time:         2019-03-11 22:41:21
+{'voltage_mv': 230749, 'current_ma': 2105, 'power_mw': 485941, 'total_wh': 109}
+Time:         2019-03-11 22:42:21
+{'voltage_mv': 227815, 'current_ma': 2079, 'power_mw': 473709, 'total_wh': 117}
+Time:         2019-03-11 22:43:21
+{'voltage_mv': 227725, 'current_ma': 2077, 'power_mw': 473821, 'total_wh': 125}
+Time:         2019-03-11 22:44:21
+{'voltage_mv': 227713, 'current_ma': 2077, 'power_mw': 473006, 'total_wh': 133}
+Time:         2019-03-11 22:45:21
+{'voltage_mv': 229874, 'current_ma': 2096, 'power_mw': 481852, 'total_wh': 142}
+Time:         2019-03-11 22:46:21
+{'voltage_mv': 230883, 'current_ma': 2104, 'power_mw': 485849, 'total_wh': 150}
+Time:         2019-03-11 22:47:21
+{'voltage_mv': 231176, 'current_ma': 2106, 'power_mw': 486919, 'total_wh': 158}
+Time:         2019-03-11 22:48:21
+{'voltage_mv': 229608, 'current_ma': 2091, 'power_mw': 480112, 'total_wh': 166}
+Time:         2019-03-11 22:49:21
+{'voltage_mv': 230569, 'current_ma': 2098, 'power_mw': 483869, 'total_wh': 174}
+Time:         2019-03-11 22:50:21
+{'voltage_mv': 231870, 'current_ma': 2111, 'power_mw': 489511, 'total_wh': 183}
+Time:         2019-03-11 22:51:21
+{'voltage_mv': 232861, 'current_ma': 2121, 'power_mw': 493910, 'total_wh': 191}
+Time:         2019-03-11 22:52:21
+{'voltage_mv': 231496, 'current_ma': 149, 'power_mw': 34438, 'total_wh': 192}
+Time:         2019-03-11 22:53:21
+{'voltage_mv': 229235, 'current_ma': 147, 'power_mw': 33663, 'total_wh': 193}
+Time:         2019-03-11 22:54:21
+{'voltage_mv': 227637, 'current_ma': 146, 'power_mw': 33196, 'total_wh': 193}
+Time:         2019-03-11 22:55:21
+{'voltage_mv': 227663, 'current_ma': 146, 'power_mw': 33260, 'total_wh': 194}
+Time:         2019-03-11 22:56:21
+{'voltage_mv': 227351, 'current_ma': 2081, 'power_mw': 473230, 'total_wh': 198}
+Time:         2019-03-11 22:57:21
+{'voltage_mv': 228577, 'current_ma': 150, 'power_mw': 34125, 'total_wh': 203}
+Time:         2019-03-11 22:58:21
+{'voltage_mv': 227379, 'current_ma': 147, 'power_mw': 33261, 'total_wh': 204}
+Time:         2019-03-11 23:01:21
+{'voltage_mv': 228902, 'current_ma': 15, 'power_mw': 0, 'total_wh': 205}
+Time:         2019-03-11 23:02:21
+{'voltage_mv': 230082, 'current_ma': 16, 'power_mw': 0, 'total_wh': 205}
+Time:         2019-03-11 23:03:21
+{'voltage_mv': 229339, 'current_ma': 16, 'power_mw': 0, 'total_wh': 205}
+Time:         2019-03-11 23:04:21
+{'voltage_mv': 231517, 'current_ma': 15, 'power_mw': 0, 'total_wh': 205}
+Time:         2019-03-13 14:11:49
+{'voltage_mv': 232465, 'current_ma': 321, 'power_mw': 65743, 'total_wh': 6}
+Time:         2019-03-13 14:12:44
+{'voltage_mv': 232348, 'current_ma': 322, 'power_mw': 65806, 'total_wh': 7}
+Time:         2019-03-13 14:13:43
+{'voltage_mv': 233960, 'current_ma': 322, 'power_mw': 66088, 'total_wh': 9}
+Time:         2019-03-13 14:14:44
+{'voltage_mv': 233868, 'current_ma': 316, 'power_mw': 64438, 'total_wh': 10}
+Time:         2019-03-13 14:15:44
+{'voltage_mv': 233241, 'current_ma': 318, 'power_mw': 64680, 'total_wh': 11}
+Time:         2019-03-13 14:16:44
+{'voltage_mv': 232463, 'current_ma': 316, 'power_mw': 64187, 'total_wh': 12}
+Time:         2019-03-13 14:17:44
+{'voltage_mv': 233205, 'current_ma': 314, 'power_mw': 63863, 'total_wh': 13}
+Time:         2019-03-13 14:18:44
+{'voltage_mv': 234957, 'current_ma': 314, 'power_mw': 63994, 'total_wh': 14}
+Time:         2019-03-13 14:19:44
+{'voltage_mv': 234193, 'current_ma': 315, 'power_mw': 63918, 'total_wh': 15}
+Time:         2019-03-13 14:20:44
+{'voltage_mv': 230689, 'current_ma': 311, 'power_mw': 62911, 'total_wh': 16}
+Time:         2019-03-13 14:21:44
+{'voltage_mv': 232600, 'current_ma': 312, 'power_mw': 63279, 'total_wh': 17}
+Time:         2019-03-13 14:22:44
+{'voltage_mv': 231646, 'current_ma': 312, 'power_mw': 62969, 'total_wh': 18}
+Time:         2019-03-13 14:23:44
+{'voltage_mv': 229794, 'current_ma': 312, 'power_mw': 62691, 'total_wh': 19}
+Time:         2019-03-13 14:24:44
+{'voltage_mv': 232303, 'current_ma': 309, 'power_mw': 62364, 'total_wh': 20}
+Time:         2019-03-13 14:25:44
+{'voltage_mv': 232093, 'current_ma': 309, 'power_mw': 62410, 'total_wh': 21}
+Time:         2019-03-13 14:26:44
+{'voltage_mv': 231977, 'current_ma': 307, 'power_mw': 62066, 'total_wh': 23}
+Time:         2019-03-13 14:27:44
+{'voltage_mv': 228889, 'current_ma': 307, 'power_mw': 61579, 'total_wh': 24}
+Time:         2019-03-13 14:28:44
+{'voltage_mv': 230150, 'current_ma': 306, 'power_mw': 61506, 'total_wh': 25}
+Time:         2019-03-13 14:29:44
+{'voltage_mv': 228192, 'current_ma': 306, 'power_mw': 61128, 'total_wh': 26}
+Time:         2019-03-13 14:30:44
+{'voltage_mv': 228820, 'current_ma': 305, 'power_mw': 61055, 'total_wh': 27}
+Time:         2019-03-13 14:31:44
+{'voltage_mv': 228325, 'current_ma': 304, 'power_mw': 60751, 'total_wh': 28}
+Time:         2019-03-13 14:32:44
+{'voltage_mv': 229415, 'current_ma': 304, 'power_mw': 60872, 'total_wh': 29}
+Time:         2019-03-13 14:33:43
+{'voltage_mv': 228563, 'current_ma': 303, 'power_mw': 60541, 'total_wh': 30}
+Time:         2019-03-13 14:34:43
+{'voltage_mv': 230040, 'current_ma': 304, 'power_mw': 60969, 'total_wh': 31}
+Time:         2019-03-13 14:35:43
+{'voltage_mv': 229934, 'current_ma': 303, 'power_mw': 60708, 'total_wh': 32}
+Time:         2019-03-13 14:36:44
+{'voltage_mv': 230512, 'current_ma': 302, 'power_mw': 60248, 'total_wh': 33}
+Time:         2019-03-13 14:37:44
+{'voltage_mv': 227236, 'current_ma': 302, 'power_mw': 60055, 'total_wh': 34}
+Time:         2019-03-13 14:38:44
+{'voltage_mv': 228275, 'current_ma': 302, 'power_mw': 60264, 'total_wh': 35}
+Time:         2019-03-13 14:39:44
+{'voltage_mv': 228597, 'current_ma': 301, 'power_mw': 59984, 'total_wh': 36}
+Time:         2019-03-13 14:40:44
+{'voltage_mv': 231636, 'current_ma': 301, 'power_mw': 60375, 'total_wh': 37}
+Time:         2019-03-13 14:41:44
+{'voltage_mv': 229972, 'current_ma': 300, 'power_mw': 60053, 'total_wh': 38}
+Time:         2019-03-13 14:42:43
+{'voltage_mv': 231455, 'current_ma': 299, 'power_mw': 59936, 'total_wh': 39}
+Time:         2019-03-13 14:43:43
+{'voltage_mv': 227524, 'current_ma': 299, 'power_mw': 59444, 'total_wh': 40}
+Time:         2019-03-13 14:44:44
+{'voltage_mv': 230382, 'current_ma': 297, 'power_mw': 59381, 'total_wh': 41}
+Time:         2019-03-13 14:58:44
+{'voltage_mv': 229313, 'current_ma': 297, 'power_mw': 59207, 'total_wh': 55}
+Time:         2019-03-13 14:59:44
+{'voltage_mv': 230796, 'current_ma': 295, 'power_mw': 58965, 'total_wh': 56}
+Time:         2019-03-13 15:00:44
+{'voltage_mv': 230579, 'current_ma': 294, 'power_mw': 58561, 'total_wh': 57}
+Time:         2019-03-13 15:01:44
+{'voltage_mv': 230414, 'current_ma': 293, 'power_mw': 58230, 'total_wh': 58}
+Time:         2019-03-13 15:02:44
+{'voltage_mv': 230551, 'current_ma': 294, 'power_mw': 58365, 'total_wh': 59}
+Time:         2019-03-13 15:03:11
+{'voltage_mv': 230083, 'current_ma': 293, 'power_mw': 58335, 'total_wh': 59}
+Time:         2019-03-13 15:04:11
+{'voltage_mv': 232877, 'current_ma': 294, 'power_mw': 58849, 'total_wh': 60}
+Time:         2019-03-13 15:05:11
+{'voltage_mv': 233283, 'current_ma': 295, 'power_mw': 58857, 'total_wh': 61}
+Time:         2019-03-13 15:06:11
+{'voltage_mv': 234053, 'current_ma': 294, 'power_mw': 58722, 'total_wh': 62}
+Time:         2019-03-13 15:07:11
+{'voltage_mv': 233255, 'current_ma': 294, 'power_mw': 58710, 'total_wh': 63}
+Time:         2019-03-13 15:08:11
+{'voltage_mv': 234475, 'current_ma': 295, 'power_mw': 58992, 'total_wh': 64}
+Time:         2019-03-13 15:09:12
+{'voltage_mv': 232950, 'current_ma': 295, 'power_mw': 58705, 'total_wh': 65}
+Time:         2019-03-13 15:10:12
+{'voltage_mv': 233214, 'current_ma': 293, 'power_mw': 58387, 'total_wh': 66}
+Time:         2019-03-13 15:11:13
+{'voltage_mv': 233279, 'current_ma': 294, 'power_mw': 58454, 'total_wh': 67}
+Time:         2019-03-13 15:12:12
+{'voltage_mv': 233346, 'current_ma': 293, 'power_mw': 58202, 'total_wh': 68}
+Time:         2019-03-13 15:13:12
+{'voltage_mv': 232324, 'current_ma': 294, 'power_mw': 58492, 'total_wh': 69}
+Time:         2019-03-13 15:14:12
+{'voltage_mv': 232772, 'current_ma': 292, 'power_mw': 58017, 'total_wh': 70}
+Time:         2019-03-13 15:15:12
+{'voltage_mv': 232761, 'current_ma': 292, 'power_mw': 58186, 'total_wh': 71}
+Time:         2019-03-13 15:16:12
+{'voltage_mv': 228536, 'current_ma': 291, 'power_mw': 57597, 'total_wh': 72}
+Time:         2019-03-13 15:17:12
+{'voltage_mv': 228386, 'current_ma': 291, 'power_mw': 57464, 'total_wh': 73}
+Time:         2019-03-13 15:18:12
+{'voltage_mv': 229501, 'current_ma': 290, 'power_mw': 57282, 'total_wh': 74}
+Time:         2019-03-13 15:19:12
+{'voltage_mv': 228514, 'current_ma': 291, 'power_mw': 57491, 'total_wh': 75}
+Time:         2019-03-13 15:20:12
+{'voltage_mv': 229259, 'current_ma': 290, 'power_mw': 57440, 'total_wh': 76}
+Time:         2019-03-13 15:21:12
+{'voltage_mv': 232946, 'current_ma': 291, 'power_mw': 57823, 'total_wh': 77}
+Time:         2019-03-13 15:22:12
+{'voltage_mv': 232653, 'current_ma': 292, 'power_mw': 58022, 'total_wh': 78}
+Time:         2019-03-13 15:23:12
+{'voltage_mv': 233111, 'current_ma': 292, 'power_mw': 57955, 'total_wh': 79}
+Time:         2019-03-13 15:24:12
+{'voltage_mv': 232701, 'current_ma': 291, 'power_mw': 57880, 'total_wh': 80}
+Time:         2019-03-13 15:25:12
+{'voltage_mv': 230875, 'current_ma': 290, 'power_mw': 57456, 'total_wh': 81}
+Time:         2019-03-13 15:26:12
+{'voltage_mv': 231781, 'current_ma': 292, 'power_mw': 57793, 'total_wh': 82}
+Time:         2019-03-13 15:27:12
+{'voltage_mv': 231219, 'current_ma': 291, 'power_mw': 57584, 'total_wh': 83}
+Time:         2019-03-13 15:28:12
+{'voltage_mv': 232068, 'current_ma': 290, 'power_mw': 57561, 'total_wh': 84}
+Time:         2019-03-13 15:29:12
+{'voltage_mv': 231556, 'current_ma': 288, 'power_mw': 57027, 'total_wh': 85}
+Time:         2019-03-13 15:30:12
+{'voltage_mv': 231735, 'current_ma': 290, 'power_mw': 57389, 'total_wh': 86}
+Time:         2019-03-13 15:31:12
+{'voltage_mv': 231941, 'current_ma': 290, 'power_mw': 57424, 'total_wh': 87}
+Time:         2019-03-13 15:32:12
+{'voltage_mv': 233601, 'current_ma': 291, 'power_mw': 57706, 'total_wh': 88}
+Time:         2019-03-13 15:33:12
+{'voltage_mv': 234399, 'current_ma': 289, 'power_mw': 57496, 'total_wh': 89}
+Time:         2019-03-13 15:34:12
+{'voltage_mv': 234088, 'current_ma': 289, 'power_mw': 57520, 'total_wh': 90}
+Time:         2019-03-13 15:35:12
+{'voltage_mv': 232370, 'current_ma': 288, 'power_mw': 56963, 'total_wh': 91}
+Time:         2019-03-13 15:36:12
+{'voltage_mv': 232561, 'current_ma': 288, 'power_mw': 57002, 'total_wh': 92}
+Time:         2019-03-13 15:37:12
+{'voltage_mv': 233070, 'current_ma': 289, 'power_mw': 57369, 'total_wh': 93}
+Time:         2019-03-16 14:20:22
+{'voltage_mv': 228576, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:21:17
+{'voltage_mv': 229914, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:22:17
+{'voltage_mv': 230513, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:23:17
+{'voltage_mv': 230899, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:24:17
+{'voltage_mv': 228161, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:25:17
+{'voltage_mv': 223386, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:26:17
+{'voltage_mv': 221857, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:27:17
+{'voltage_mv': 223492, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:28:17
+{'voltage_mv': 223574, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:29:17
+{'voltage_mv': 222394, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:30:17
+{'voltage_mv': 224304, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:31:17
+{'voltage_mv': 225932, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:32:17
+{'voltage_mv': 225588, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:33:17
+{'voltage_mv': 224381, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:34:17
+{'voltage_mv': 224596, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:35:17
+{'voltage_mv': 226902, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:36:17
+{'voltage_mv': 229037, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:37:17
+{'voltage_mv': 229303, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:38:17
+{'voltage_mv': 230045, 'current_ma': 16, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:39:17
+{'voltage_mv': 229123, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:40:17
+{'voltage_mv': 229484, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:41:17
+{'voltage_mv': 228269, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:42:17
+{'voltage_mv': 217047, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:43:17
+{'voltage_mv': 219150, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:44:17
+{'voltage_mv': 217611, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:45:17
+{'voltage_mv': 215474, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:46:17
+{'voltage_mv': 216771, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:47:02
+{'voltage_mv': 217431, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:48:02
+{'voltage_mv': 215271, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:49:03
+{'voltage_mv': 214200, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:50:02
+{'voltage_mv': 215136, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:51:03
+{'voltage_mv': 228460, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:52:02
+{'voltage_mv': 228678, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:53:02
+{'voltage_mv': 228898, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:54:02
+{'voltage_mv': 228751, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:55:02
+{'voltage_mv': 228651, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:56:02
+{'voltage_mv': 229155, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:57:02
+{'voltage_mv': 228158, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:58:02
+{'voltage_mv': 228538, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 14:59:03
+{'voltage_mv': 229193, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:00:02
+{'voltage_mv': 232241, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:01:02
+{'voltage_mv': 231846, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:02:02
+{'voltage_mv': 231268, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:03:03
+{'voltage_mv': 229101, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:04:02
+{'voltage_mv': 231451, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:05:02
+{'voltage_mv': 230784, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:06:02
+{'voltage_mv': 228171, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:07:02
+{'voltage_mv': 228182, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-16 15:08:03
+{'voltage_mv': 230499, 'current_ma': 15, 'power_mw': 0, 'total_wh': 1543}
+Time:         2019-03-18 02:07:40
+{'voltage_mv': 236070, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:08:35
+{'voltage_mv': 235141, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:09:35
+{'voltage_mv': 233895, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:10:35
+{'voltage_mv': 235132, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:11:35
+{'voltage_mv': 235362, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:12:35
+{'voltage_mv': 236826, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:13:34
+{'voltage_mv': 237147, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:14:17
+{'voltage_mv': 236331, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:14:37
+{'voltage_mv': 237102, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:15:37
+{'voltage_mv': 236812, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:16:35
+{'voltage_mv': 236747, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:17:35
+{'voltage_mv': 236495, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:18:35
+{'voltage_mv': 236452, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:19:34
+{'voltage_mv': 236155, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:20:35
+{'voltage_mv': 235950, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-18 02:21:34
+{'voltage_mv': 235893, 'current_ma': 15, 'power_mw': 0, 'total_wh': 2344}
+Time:         2019-03-19 11:20:16
+{'voltage_mv': 229562, 'current_ma': 76, 'power_mw': 947, 'total_wh': 0}
+Time:         2019-03-19 11:21:10
+{'voltage_mv': 230936, 'current_ma': 77, 'power_mw': 1321, 'total_wh': 0}
+Time:         2019-03-19 11:22:10
+{'voltage_mv': 231087, 'current_ma': 78, 'power_mw': 1306, 'total_wh': 0}
+Time:         2019-03-19 11:23:10
+{'voltage_mv': 231413, 'current_ma': 123, 'power_mw': 7414, 'total_wh': 0}
+Time:         2019-03-19 11:24:10
+{'voltage_mv': 232509, 'current_ma': 69, 'power_mw': 9284, 'total_wh': 1}
+Time:         2019-03-19 11:25:09
+{'voltage_mv': 231640, 'current_ma': 81, 'power_mw': 4343, 'total_wh': 1}
+Time:         2019-03-19 11:26:10
+{'voltage_mv': 228230, 'current_ma': 68, 'power_mw': 8882, 'total_wh': 2}
+Time:         2019-03-19 11:27:09
+{'voltage_mv': 227975, 'current_ma': 2734, 'power_mw': 170930, 'total_wh': 3}
+Time:         2019-03-19 11:28:10
+{'voltage_mv': 228042, 'current_ma': 204, 'power_mw': 5050, 'total_wh': 4}
+Time:         2019-03-19 11:29:10
+{'voltage_mv': 227338, 'current_ma': 67, 'power_mw': 8736, 'total_wh': 5}
+Time:         2019-03-19 11:30:10
+{'voltage_mv': 227712, 'current_ma': 67, 'power_mw': 8773, 'total_wh': 6}
+Time:         2019-03-19 11:31:10
+{'voltage_mv': 223604, 'current_ma': 2986, 'power_mw': 190407, 'total_wh': 8}
+Time:         2019-03-19 11:32:09
+{'voltage_mv': 231825, 'current_ma': 2543, 'power_mw': 113005, 'total_wh': 9}
+Time:         2019-03-19 11:33:10
+{'voltage_mv': 230829, 'current_ma': 81, 'power_mw': 4087, 'total_wh': 11}
+Time:         2019-03-19 11:34:10
+{'voltage_mv': 229830, 'current_ma': 150, 'power_mw': 4265, 'total_wh': 12}
+Time:         2019-03-19 11:35:09
+{'voltage_mv': 227766, 'current_ma': 3212, 'power_mw': 194506, 'total_wh': 13}
+Time:         2019-03-19 11:36:09
+{'voltage_mv': 226912, 'current_ma': 79, 'power_mw': 4078, 'total_wh': 15}
+Time:         2019-03-19 11:37:09
+{'voltage_mv': 227940, 'current_ma': 80, 'power_mw': 4064, 'total_wh': 16}
+Time:         2019-03-19 11:38:09
+{'voltage_mv': 225619, 'current_ma': 3039, 'power_mw': 181424, 'total_wh': 18}
+Time:         2019-03-19 11:39:09
+{'voltage_mv': 225228, 'current_ma': 4316, 'power_mw': 248479, 'total_wh': 19}
+Time:         2019-03-19 11:40:09
+{'voltage_mv': 225930, 'current_ma': 79, 'power_mw': 4039, 'total_wh': 20}
+Time:         2019-03-19 11:41:09
+{'voltage_mv': 223653, 'current_ma': 3052, 'power_mw': 181014, 'total_wh': 22}
+Time:         2019-03-19 11:42:10
+{'voltage_mv': 225141, 'current_ma': 3008, 'power_mw': 173087, 'total_wh': 23}
+Time:         2019-03-19 11:43:10
+{'voltage_mv': 227475, 'current_ma': 79, 'power_mw': 4014, 'total_wh': 24}
+Time:         2019-03-19 11:44:10
+{'voltage_mv': 226107, 'current_ma': 79, 'power_mw': 4063, 'total_wh': 26}
+Time:         2019-03-19 11:45:09
+{'voltage_mv': 226029, 'current_ma': 2826, 'power_mw': 157610, 'total_wh': 27}
+Time:         2019-03-19 11:46:10
+{'voltage_mv': 225824, 'current_ma': 3101, 'power_mw': 175463, 'total_wh': 28}
+Time:         2019-03-19 11:47:10
+{'voltage_mv': 226157, 'current_ma': 7500, 'power_mw': 1621190, 'total_wh': 29}
+Time:         2019-03-19 11:48:09
+{'voltage_mv': 225442, 'current_ma': 9028, 'power_mw': 1934051, 'total_wh': 61}
+Time:         2019-03-19 11:49:10
+{'voltage_mv': 225321, 'current_ma': 8998, 'power_mw': 1927100, 'total_wh': 93}
+Time:         2019-03-19 11:50:09
+{'voltage_mv': 225211, 'current_ma': 7842, 'power_mw': 1766213, 'total_wh': 125}
+Time:         2019-03-19 11:51:09
+{'voltage_mv': 227121, 'current_ma': 9166, 'power_mw': 1967284, 'total_wh': 157}
+Time:         2019-03-19 11:52:09
+{'voltage_mv': 228210, 'current_ma': 7946, 'power_mw': 1813122, 'total_wh': 190}
+Time:         2019-03-19 11:53:09
+{'voltage_mv': 227419, 'current_ma': 9205, 'power_mw': 1973052, 'total_wh': 222}
+Time:         2019-03-19 11:54:09
+{'voltage_mv': 227466, 'current_ma': 9048, 'power_mw': 1955229, 'total_wh': 255}
+Time:         2019-03-19 11:55:10
+{'voltage_mv': 229482, 'current_ma': 7987, 'power_mw': 1832942, 'total_wh': 287}
+Time:         2019-03-19 11:56:09
+{'voltage_mv': 232608, 'current_ma': 523, 'power_mw': 11570, 'total_wh': 319}
+Time:         2019-03-19 11:57:10
+{'voltage_mv': 229749, 'current_ma': 3076, 'power_mw': 133798, 'total_wh': 321}
+Time:         2019-03-19 11:58:09
+{'voltage_mv': 231258, 'current_ma': 2821, 'power_mw': 145015, 'total_wh': 323}
+Time:         2019-03-19 11:59:09
+{'voltage_mv': 232546, 'current_ma': 82, 'power_mw': 4106, 'total_wh': 325}
+Time:         2019-03-19 12:00:10
+{'voltage_mv': 234326, 'current_ma': 2973, 'power_mw': 159047, 'total_wh': 327}
+Time:         2019-03-19 12:01:10
+{'voltage_mv': 234446, 'current_ma': 3005, 'power_mw': 160860, 'total_wh': 329}
+Time:         2019-03-19 12:02:10
+{'voltage_mv': 235703, 'current_ma': 3564, 'power_mw': 199376, 'total_wh': 331}
+Time:         2019-03-19 12:03:09
+{'voltage_mv': 234761, 'current_ma': 2922, 'power_mw': 154139, 'total_wh': 333}
+Time:         2019-03-19 12:04:10
+{'voltage_mv': 237054, 'current_ma': 83, 'power_mw': 3801, 'total_wh': 335}
+Time:         2019-03-19 12:05:09
+{'voltage_mv': 234675, 'current_ma': 3004, 'power_mw': 159313, 'total_wh': 337}
+Time:         2019-03-19 12:06:09
+{'voltage_mv': 235516, 'current_ma': 3067, 'power_mw': 164740, 'total_wh': 339}
+Time:         2019-03-19 12:07:10
+{'voltage_mv': 233660, 'current_ma': 82, 'power_mw': 4063, 'total_wh': 341}
+Time:         2019-03-19 12:09:10
+{'voltage_mv': 230974, 'current_ma': 3017, 'power_mw': 157214, 'total_wh': 345}
+Time:         2019-03-19 12:10:09
+{'voltage_mv': 233039, 'current_ma': 4046, 'power_mw': 231238, 'total_wh': 346}
+Time:         2019-03-19 12:11:10
+{'voltage_mv': 232741, 'current_ma': 2994, 'power_mw': 157599, 'total_wh': 348}
+Time:         2019-03-19 12:12:09
+{'voltage_mv': 232439, 'current_ma': 82, 'power_mw': 3668, 'total_wh': 350}
+Time:         2019-03-19 12:13:10
+{'voltage_mv': 230915, 'current_ma': 2889, 'power_mw': 146300, 'total_wh': 352}
+Time:         2019-03-19 12:14:09
+{'voltage_mv': 231891, 'current_ma': 2823, 'power_mw': 140941, 'total_wh': 354}
+Time:         2019-03-19 12:15:10
+{'voltage_mv': 231135, 'current_ma': 81, 'power_mw': 4011, 'total_wh': 356}
+Time:         2019-03-19 12:16:09
+{'voltage_mv': 231694, 'current_ma': 2833, 'power_mw': 145498, 'total_wh': 358}
+Time:         2019-03-19 12:17:09
+{'voltage_mv': 230401, 'current_ma': 2784, 'power_mw': 139927, 'total_wh': 360}
+Time:         2019-03-19 12:18:09
+{'voltage_mv': 228093, 'current_ma': 2609, 'power_mw': 123958, 'total_wh': 361}
+Time:         2019-03-19 12:19:09
+{'voltage_mv': 228197, 'current_ma': 2944, 'power_mw': 145774, 'total_wh': 363}
+Time:         2019-03-19 12:20:10
+{'voltage_mv': 230287, 'current_ma': 80, 'power_mw': 4002, 'total_wh': 365}
+Time:         2019-03-19 12:21:10
+{'voltage_mv': 228836, 'current_ma': 2926, 'power_mw': 149430, 'total_wh': 367}
+Time:         2019-03-19 12:22:10
+{'voltage_mv': 229353, 'current_ma': 2924, 'power_mw': 146498, 'total_wh': 369}
+Time:         2019-03-19 12:23:10
+{'voltage_mv': 229648, 'current_ma': 2758, 'power_mw': 135937, 'total_wh': 371}
+Time:         2019-03-19 12:24:10
+{'voltage_mv': 230487, 'current_ma': 2915, 'power_mw': 143285, 'total_wh': 373}
+Time:         2019-03-19 12:25:10
+{'voltage_mv': 231227, 'current_ma': 80, 'power_mw': 3856, 'total_wh': 374}
+Time:         2019-03-19 12:26:10
+{'voltage_mv': 230390, 'current_ma': 2896, 'power_mw': 143323, 'total_wh': 376}
+Time:         2019-03-19 12:27:11
+{'voltage_mv': 229354, 'current_ma': 2972, 'power_mw': 149344, 'total_wh': 378}
+Time:         2019-03-19 12:28:10
+{'voltage_mv': 229976, 'current_ma': 2618, 'power_mw': 92568, 'total_wh': 380}
+Time:         2019-03-19 12:29:10
+{'voltage_mv': 231602, 'current_ma': 2856, 'power_mw': 139269, 'total_wh': 382}
+Time:         2019-03-19 12:30:11
+{'voltage_mv': 230710, 'current_ma': 250, 'power_mw': 4628, 'total_wh': 383}
+Time:         2019-03-19 12:31:10
+{'voltage_mv': 229010, 'current_ma': 2936, 'power_mw': 144063, 'total_wh': 385}
+Time:         2019-03-19 12:32:10
+{'voltage_mv': 228923, 'current_ma': 2919, 'power_mw': 146284, 'total_wh': 387}
+Time:         2019-03-19 12:33:10
+{'voltage_mv': 234468, 'current_ma': 82, 'power_mw': 4112, 'total_wh': 389}
+Time:         2019-03-19 12:34:10
+{'voltage_mv': 233866, 'current_ma': 2789, 'power_mw': 132472, 'total_wh': 390}
+Time:         2019-03-19 12:35:10
+{'voltage_mv': 230985, 'current_ma': 3039, 'power_mw': 149753, 'total_wh': 392}
+Time:         2019-03-19 12:36:10
+{'voltage_mv': 232217, 'current_ma': 1130, 'power_mw': 24896, 'total_wh': 394}
+Time:         2019-03-19 12:37:10
+{'voltage_mv': 233463, 'current_ma': 2856, 'power_mw': 140902, 'total_wh': 396}
+Time:         2019-03-19 12:38:10
+{'voltage_mv': 232732, 'current_ma': 2783, 'power_mw': 133914, 'total_wh': 398}
+Time:         2019-03-19 12:39:10
+{'voltage_mv': 232530, 'current_ma': 2802, 'power_mw': 132129, 'total_wh': 399}
+Time:         2019-03-19 12:40:10
+{'voltage_mv': 229653, 'current_ma': 2931, 'power_mw': 140078, 'total_wh': 401}
+Time:         2019-03-19 12:41:10
+{'voltage_mv': 231962, 'current_ma': 82, 'power_mw': 3998, 'total_wh': 403}
+Time:         2019-03-19 12:42:10
+{'voltage_mv': 229620, 'current_ma': 2835, 'power_mw': 137200, 'total_wh': 405}
+Time:         2019-03-19 12:43:10
+{'voltage_mv': 231186, 'current_ma': 3054, 'power_mw': 155151, 'total_wh': 407}
+Time:         2019-03-19 12:44:10
+{'voltage_mv': 230491, 'current_ma': 3235, 'power_mw': 164345, 'total_wh': 408}
+Time:         2019-03-19 12:45:10
+{'voltage_mv': 230152, 'current_ma': 2978, 'power_mw': 143529, 'total_wh': 410}
+Time:         2019-03-19 12:46:10
+{'voltage_mv': 228101, 'current_ma': 80, 'power_mw': 3909, 'total_wh': 412}
+Time:         2019-03-19 12:47:10
+{'voltage_mv': 226758, 'current_ma': 2805, 'power_mw': 136249, 'total_wh': 414}
+Time:         2019-03-19 12:48:10
+{'voltage_mv': 226825, 'current_ma': 2804, 'power_mw': 134967, 'total_wh': 415}
+Time:         2019-03-19 12:50:09
+{'voltage_mv': 231558, 'current_ma': 2871, 'power_mw': 138079, 'total_wh': 419}
+Time:         2019-03-19 12:51:09
+{'voltage_mv': 229571, 'current_ma': 2849, 'power_mw': 135526, 'total_wh': 421}
+Time:         2019-03-19 12:52:09
+{'voltage_mv': 229885, 'current_ma': 4272, 'power_mw': 239948, 'total_wh': 422}
+Time:         2019-03-19 12:53:09
+{'voltage_mv': 230919, 'current_ma': 2941, 'power_mw': 144470, 'total_wh': 424}
+Time:         2019-03-19 12:54:09
+{'voltage_mv': 229543, 'current_ma': 80, 'power_mw': 3999, 'total_wh': 426}
+Time:         2019-03-19 12:55:09
+{'voltage_mv': 230772, 'current_ma': 3055, 'power_mw': 149089, 'total_wh': 428}
+Time:         2019-03-19 12:56:10
+{'voltage_mv': 230502, 'current_ma': 2920, 'power_mw': 139233, 'total_wh': 430}
+Time:         2019-03-19 12:57:10
+{'voltage_mv': 232371, 'current_ma': 664, 'power_mw': 13229, 'total_wh': 431}
+Time:         2019-03-19 12:58:09
+{'voltage_mv': 232594, 'current_ma': 2916, 'power_mw': 143985, 'total_wh': 433}
+Time:         2019-03-19 12:59:10
+{'voltage_mv': 232717, 'current_ma': 2966, 'power_mw': 148256, 'total_wh': 435}
+Time:         2019-03-19 13:00:09
+{'voltage_mv': 233831, 'current_ma': 2237, 'power_mw': 95010, 'total_wh': 437}
+Time:         2019-03-19 13:01:09
+{'voltage_mv': 232954, 'current_ma': 2974, 'power_mw': 143533, 'total_wh': 438}
+Time:         2019-03-19 13:02:09
+{'voltage_mv': 232903, 'current_ma': 80, 'power_mw': 3637, 'total_wh': 440}
+Time:         2019-03-19 13:03:09
+{'voltage_mv': 232416, 'current_ma': 2742, 'power_mw': 132913, 'total_wh': 442}
+Time:         2019-03-19 13:04:09
+{'voltage_mv': 233871, 'current_ma': 2926, 'power_mw': 144924, 'total_wh': 444}
+Time:         2019-03-19 13:05:09
+{'voltage_mv': 233636, 'current_ma': 82, 'power_mw': 4116, 'total_wh': 446}
+Time:         2019-03-19 13:06:09
+{'voltage_mv': 234485, 'current_ma': 2722, 'power_mw': 125773, 'total_wh': 447}
+Time:         2019-03-19 13:07:09
+{'voltage_mv': 232669, 'current_ma': 2842, 'power_mw': 133985, 'total_wh': 449}
+Time:         2019-03-19 13:08:10
+{'voltage_mv': 232500, 'current_ma': 2273, 'power_mw': 100466, 'total_wh': 451}
+Time:         2019-03-19 13:09:09
+{'voltage_mv': 231581, 'current_ma': 2765, 'power_mw': 135236, 'total_wh': 453}
+Time:         2019-03-19 13:10:10
+{'voltage_mv': 233358, 'current_ma': 81, 'power_mw': 4001, 'total_wh': 454}
+Time:         2019-03-19 13:11:10
+{'voltage_mv': 233797, 'current_ma': 2876, 'power_mw': 137368, 'total_wh': 456}
+Time:         2019-03-19 13:13:09
+{'voltage_mv': 234520, 'current_ma': 1399, 'power_mw': 33101, 'total_wh': 460}
+Time:         2019-03-19 13:14:09
+{'voltage_mv': 233812, 'current_ma': 2928, 'power_mw': 145281, 'total_wh': 462}
+Time:         2019-03-19 13:15:09
+{'voltage_mv': 235826, 'current_ma': 278, 'power_mw': 5131, 'total_wh': 463}
+Time:         2019-03-19 13:16:10
+{'voltage_mv': 232088, 'current_ma': 2870, 'power_mw': 134787, 'total_wh': 465}
+Time:         2019-03-19 13:17:10
+{'voltage_mv': 231052, 'current_ma': 2981, 'power_mw': 144043, 'total_wh': 467}
+Time:         2019-03-19 13:18:09
+{'voltage_mv': 233088, 'current_ma': 81, 'power_mw': 4031, 'total_wh': 469}
+Time:         2019-03-19 13:19:10
+{'voltage_mv': 229797, 'current_ma': 2988, 'power_mw': 151503, 'total_wh': 471}
+Time:         2019-03-19 13:26:29
+{'voltage_mv': 233302, 'current_ma': 81, 'power_mw': 3875, 'total_wh': 484}
+Time:         2019-03-19 13:27:10
+{'voltage_mv': 232294, 'current_ma': 2953, 'power_mw': 136288, 'total_wh': 485}
+Time:         2019-03-19 13:28:11
+{'voltage_mv': 234525, 'current_ma': 82, 'power_mw': 3675, 'total_wh': 487}
+Time:         2019-03-19 13:29:11
+{'voltage_mv': 231860, 'current_ma': 2930, 'power_mw': 145906, 'total_wh': 488}
+Time:         2019-03-19 13:30:11
+{'voltage_mv': 233718, 'current_ma': 2698, 'power_mw': 132293, 'total_wh': 490}
+Time:         2019-03-19 13:31:11
+{'voltage_mv': 233959, 'current_ma': 81, 'power_mw': 4087, 'total_wh': 492}
+Time:         2019-03-19 13:32:11
+{'voltage_mv': 232686, 'current_ma': 3029, 'power_mw': 147992, 'total_wh': 494}
+Time:         2019-03-19 13:33:11
+{'voltage_mv': 231744, 'current_ma': 2982, 'power_mw': 144503, 'total_wh': 496}
+Time:         2019-03-19 13:34:10
+{'voltage_mv': 231703, 'current_ma': 2660, 'power_mw': 130569, 'total_wh': 497}
+Time:         2019-03-19 13:35:11
+{'voltage_mv': 232185, 'current_ma': 2935, 'power_mw': 148605, 'total_wh': 499}
+Time:         2019-03-19 13:36:10
+{'voltage_mv': 233082, 'current_ma': 106, 'power_mw': 3974, 'total_wh': 501}
+Time:         2019-03-19 13:37:10
+{'voltage_mv': 231869, 'current_ma': 2723, 'power_mw': 129872, 'total_wh': 503}
+Time:         2019-03-19 13:38:10
+{'voltage_mv': 232946, 'current_ma': 2955, 'power_mw': 143858, 'total_wh': 505}
+Time:         2019-03-19 13:39:10
+{'voltage_mv': 233895, 'current_ma': 1072, 'power_mw': 44474, 'total_wh': 506}
+Time:         2019-03-19 13:40:11
+{'voltage_mv': 234303, 'current_ma': 82, 'power_mw': 4020, 'total_wh': 507}
+Time:         2019-03-19 13:41:10
+{'voltage_mv': 235196, 'current_ma': 82, 'power_mw': 4091, 'total_wh': 507}
+Time:         2019-03-19 13:42:11
+{'voltage_mv': 234623, 'current_ma': 82, 'power_mw': 4159, 'total_wh': 507}
+Time:         2019-03-19 13:43:10
+{'voltage_mv': 234339, 'current_ma': 82, 'power_mw': 4140, 'total_wh': 507}
+Time:         2019-03-19 13:44:11
+{'voltage_mv': 234320, 'current_ma': 82, 'power_mw': 4100, 'total_wh': 507}
+Time:         2019-03-19 13:45:11
+{'voltage_mv': 233561, 'current_ma': 171, 'power_mw': 26597, 'total_wh': 508}
+Time:         2019-03-19 13:46:10
+{'voltage_mv': 233766, 'current_ma': 190, 'power_mw': 19822, 'total_wh': 509}
+Time:         2019-03-19 13:47:10
+{'voltage_mv': 234699, 'current_ma': 1514, 'power_mw': 137631, 'total_wh': 511}
+Time:         2019-03-19 13:48:11
+{'voltage_mv': 234636, 'current_ma': 2050, 'power_mw': 308482, 'total_wh': 515}
+Time:         2019-03-19 13:49:10
+{'voltage_mv': 233904, 'current_ma': 2404, 'power_mw': 425914, 'total_wh': 522}
+Time:         2019-03-19 13:50:11
+{'voltage_mv': 233622, 'current_ma': 2364, 'power_mw': 411601, 'total_wh': 529}
+Time:         2019-03-19 13:51:11
+{'voltage_mv': 234661, 'current_ma': 366, 'power_mw': 81174, 'total_wh': 533}
+Time:         2019-03-19 13:52:10
+{'voltage_mv': 236115, 'current_ma': 361, 'power_mw': 80452, 'total_wh': 534}
+Time:         2019-03-19 13:53:11
+{'voltage_mv': 234202, 'current_ma': 359, 'power_mw': 79318, 'total_wh': 535}
+Time:         2019-03-19 13:54:10
+{'voltage_mv': 234141, 'current_ma': 330, 'power_mw': 73614, 'total_wh': 538}
+Time:         2019-03-19 13:55:11
+{'voltage_mv': 232730, 'current_ma': 2810, 'power_mw': 189320, 'total_wh': 541}
+Time:         2019-03-19 13:56:10
+{'voltage_mv': 233965, 'current_ma': 326, 'power_mw': 72622, 'total_wh': 544}
+Time:         2019-03-19 13:57:11
+{'voltage_mv': 232138, 'current_ma': 3354, 'power_mw': 250859, 'total_wh': 546}
+Time:         2019-03-19 13:58:10
+{'voltage_mv': 233170, 'current_ma': 328, 'power_mw': 72705, 'total_wh': 549}
+Time:         2019-03-19 13:59:11
+{'voltage_mv': 232729, 'current_ma': 2297, 'power_mw': 181023, 'total_wh': 552}
+Time:         2019-03-19 14:00:10
+{'voltage_mv': 234133, 'current_ma': 495, 'power_mw': 89374, 'total_wh': 554}
+Time:         2019-03-19 14:01:10
+{'voltage_mv': 230691, 'current_ma': 2840, 'power_mw': 211364, 'total_wh': 556}
+Time:         2019-03-19 14:02:10
+{'voltage_mv': 231093, 'current_ma': 3175, 'power_mw': 482299, 'total_wh': 560}
+Time:         2019-03-19 14:03:10
+{'voltage_mv': 232059, 'current_ma': 2730, 'power_mw': 552863, 'total_wh': 570}
+Time:         2019-03-19 14:04:10
+{'voltage_mv': 232022, 'current_ma': 2438, 'power_mw': 438126, 'total_wh': 579}
+Time:         2019-03-19 14:05:10
+{'voltage_mv': 233938, 'current_ma': 466, 'power_mw': 87560, 'total_wh': 586}
+Time:         2019-03-19 14:06:11
+{'voltage_mv': 232967, 'current_ma': 373, 'power_mw': 81044, 'total_wh': 587}
+Time:         2019-03-19 14:07:10
+{'voltage_mv': 232126, 'current_ma': 370, 'power_mw': 80195, 'total_wh': 589}
+Time:         2019-03-19 14:08:10
+{'voltage_mv': 231721, 'current_ma': 2606, 'power_mw': 211699, 'total_wh': 590}
+Time:         2019-03-19 14:09:11
+{'voltage_mv': 220861, 'current_ma': 2360, 'power_mw': 170603, 'total_wh': 593}
+Time:         2019-03-19 14:10:11
+{'voltage_mv': 219432, 'current_ma': 520, 'power_mw': 71660, 'total_wh': 596}
+Time:         2019-03-19 14:12:10
+{'voltage_mv': 228808, 'current_ma': 313, 'power_mw': 68293, 'total_wh': 601}
+Time:         2019-03-19 14:13:10
+{'voltage_mv': 233169, 'current_ma': 2528, 'power_mw': 199483, 'total_wh': 604}
+Time:         2019-03-19 14:14:10
+{'voltage_mv': 232069, 'current_ma': 312, 'power_mw': 68840, 'total_wh': 607}
+Time:         2019-03-19 14:15:10
+{'voltage_mv': 231417, 'current_ma': 454, 'power_mw': 84122, 'total_wh': 609}
+Time:         2019-03-19 14:16:10
+{'voltage_mv': 227023, 'current_ma': 3106, 'power_mw': 217302, 'total_wh': 611}
+Time:         2019-03-19 14:17:10
+{'voltage_mv': 227228, 'current_ma': 2040, 'power_mw': 252915, 'total_wh': 614}
+Time:         2019-03-19 14:18:10
+{'voltage_mv': 226107, 'current_ma': 1835, 'power_mw': 267240, 'total_wh': 619}
+Time:         2019-03-19 14:19:10
+{'voltage_mv': 231389, 'current_ma': 452, 'power_mw': 83856, 'total_wh': 623}
+Time:         2019-03-19 14:20:10
+{'voltage_mv': 230796, 'current_ma': 1856, 'power_mw': 150529, 'total_wh': 625}
+Time:         2019-03-19 14:21:11
+{'voltage_mv': 232683, 'current_ma': 2041, 'power_mw': 265798, 'total_wh': 628}
+Time:         2019-03-19 14:22:10
+{'voltage_mv': 230521, 'current_ma': 1875, 'power_mw': 274670, 'total_wh': 633}
+Time:         2019-03-19 14:23:10
+{'voltage_mv': 229713, 'current_ma': 2383, 'power_mw': 419682, 'total_wh': 640}
+Time:         2019-03-19 14:24:10
+{'voltage_mv': 230302, 'current_ma': 2371, 'power_mw': 412125, 'total_wh': 647}
+Time:         2019-03-19 14:25:10
+{'voltage_mv': 230284, 'current_ma': 2565, 'power_mw': 518027, 'total_wh': 654}
+Time:         2019-03-19 14:26:10
+{'voltage_mv': 230730, 'current_ma': 2415, 'power_mw': 472512, 'total_wh': 662}
+Time:         2019-03-19 14:27:10
+{'voltage_mv': 230773, 'current_ma': 2453, 'power_mw': 491101, 'total_wh': 670}
+Time:         2019-03-19 14:28:10
+{'voltage_mv': 230820, 'current_ma': 2423, 'power_mw': 478841, 'total_wh': 678}
+Time:         2019-03-19 14:29:10
+{'voltage_mv': 232549, 'current_ma': 2367, 'power_mw': 457418, 'total_wh': 686}
+Time:         2019-03-19 14:30:11
+{'voltage_mv': 231893, 'current_ma': 2395, 'power_mw': 467928, 'total_wh': 694}
+Time:         2019-03-19 14:31:11
+{'voltage_mv': 232287, 'current_ma': 2399, 'power_mw': 469214, 'total_wh': 702}
+Time:         2019-03-19 14:32:10
+{'voltage_mv': 230622, 'current_ma': 1791, 'power_mw': 152381, 'total_wh': 704}
+Time:         2019-03-19 14:33:10
+{'voltage_mv': 231617, 'current_ma': 1329, 'power_mw': 119662, 'total_wh': 705}
+Time:         2019-03-19 14:34:10
+{'voltage_mv': 228414, 'current_ma': 294, 'power_mw': 63525, 'total_wh': 707}
+Time:         2019-03-19 14:35:11
+{'voltage_mv': 231407, 'current_ma': 290, 'power_mw': 63318, 'total_wh': 708}
+Time:         2019-03-19 14:36:10
+{'voltage_mv': 231766, 'current_ma': 291, 'power_mw': 63534, 'total_wh': 709}
+Time:         2019-03-19 14:37:11
+{'voltage_mv': 229559, 'current_ma': 291, 'power_mw': 63088, 'total_wh': 710}
+Time:         2019-03-19 14:38:10
+{'voltage_mv': 230535, 'current_ma': 290, 'power_mw': 62997, 'total_wh': 711}
+Time:         2019-03-19 14:39:11
+{'voltage_mv': 230956, 'current_ma': 291, 'power_mw': 63256, 'total_wh': 712}
+Time:         2019-03-19 14:40:10
+{'voltage_mv': 229821, 'current_ma': 290, 'power_mw': 62814, 'total_wh': 713}
+Time:         2019-03-19 14:41:10
+{'voltage_mv': 231992, 'current_ma': 290, 'power_mw': 63153, 'total_wh': 714}
+Time:         2019-03-19 14:42:10
+{'voltage_mv': 233210, 'current_ma': 289, 'power_mw': 63320, 'total_wh': 715}
+Time:         2019-03-19 14:43:11
+{'voltage_mv': 232917, 'current_ma': 287, 'power_mw': 62819, 'total_wh': 716}
+Time:         2019-03-19 14:44:10
+{'voltage_mv': 231902, 'current_ma': 289, 'power_mw': 62880, 'total_wh': 717}
+Time:         2019-03-19 14:45:10
+{'voltage_mv': 232897, 'current_ma': 289, 'power_mw': 63179, 'total_wh': 719}
+Time:         2019-03-19 14:46:10
+{'voltage_mv': 232251, 'current_ma': 288, 'power_mw': 62827, 'total_wh': 720}
+Time:         2019-03-19 14:47:10
+{'voltage_mv': 233362, 'current_ma': 288, 'power_mw': 63066, 'total_wh': 721}
+Time:         2019-03-19 14:48:11
+{'voltage_mv': 234941, 'current_ma': 288, 'power_mw': 63469, 'total_wh': 722}
+Time:         2019-03-19 14:49:10
+{'voltage_mv': 234256, 'current_ma': 288, 'power_mw': 63354, 'total_wh': 723}
+Time:         2019-03-19 14:50:10
+{'voltage_mv': 234571, 'current_ma': 286, 'power_mw': 63044, 'total_wh': 724}
+Time:         2019-03-19 14:51:10
+{'voltage_mv': 235425, 'current_ma': 288, 'power_mw': 63656, 'total_wh': 725}
+Time:         2019-03-19 14:52:09
+{'voltage_mv': 234723, 'current_ma': 286, 'power_mw': 62912, 'total_wh': 726}
+Time:         2019-03-19 14:53:10
+{'voltage_mv': 234081, 'current_ma': 287, 'power_mw': 63116, 'total_wh': 727}
+Time:         2019-03-19 14:54:10
+{'voltage_mv': 232978, 'current_ma': 286, 'power_mw': 62656, 'total_wh': 728}
+Time:         2019-03-19 14:55:09
+{'voltage_mv': 233532, 'current_ma': 287, 'power_mw': 62889, 'total_wh': 729}
+Time:         2019-03-19 14:56:09
+{'voltage_mv': 233254, 'current_ma': 286, 'power_mw': 62509, 'total_wh': 730}
+Time:         2019-03-19 14:57:09
+{'voltage_mv': 232801, 'current_ma': 284, 'power_mw': 62051, 'total_wh': 731}
+Time:         2019-03-19 14:58:10
+{'voltage_mv': 232833, 'current_ma': 283, 'power_mw': 61927, 'total_wh': 732}
+Time:         2019-03-19 14:59:09
+{'voltage_mv': 232557, 'current_ma': 282, 'power_mw': 61552, 'total_wh': 733}
+Time:         2019-03-19 15:00:10
+{'voltage_mv': 234209, 'current_ma': 282, 'power_mw': 61933, 'total_wh': 734}
+Time:         2019-03-19 15:01:10
+{'voltage_mv': 233147, 'current_ma': 282, 'power_mw': 61661, 'total_wh': 736}
+Time:         2019-03-19 15:02:10
+{'voltage_mv': 232615, 'current_ma': 286, 'power_mw': 62479, 'total_wh': 737}
+Time:         2019-03-19 15:04:10
+{'voltage_mv': 233538, 'current_ma': 15, 'power_mw': 0, 'total_wh': 3}
+Time:         2019-03-19 15:05:10
+{'voltage_mv': 233188, 'current_ma': 15, 'power_mw': 0, 'total_wh': 3}
+Time:         2019-03-19 15:06:10
+{'voltage_mv': 233232, 'current_ma': 15, 'power_mw': 0, 'total_wh': 3}
+Time:         2019-03-19 15:07:10
+{'voltage_mv': 233687, 'current_ma': 15, 'power_mw': 0, 'total_wh': 3}
+Time:         2019-03-19 15:08:10
+{'voltage_mv': 231894, 'current_ma': 309, 'power_mw': 62635, 'total_wh': 4}
+Time:         2019-03-19 15:09:10
+{'voltage_mv': 231486, 'current_ma': 313, 'power_mw': 63712, 'total_wh': 5}
+Time:         2019-03-19 22:57:03
+{'voltage_mv': 234629, 'current_ma': 15, 'power_mw': 0, 'total_wh': 279}
+Time:         2019-03-19 22:57:55
+{'voltage_mv': 235706, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-19 22:58:55
+{'voltage_mv': 234776, 'current_ma': 673, 'power_mw': 152064, 'total_wh': 2}
+Time:         2019-03-19 22:59:55
+{'voltage_mv': 235942, 'current_ma': 665, 'power_mw': 150879, 'total_wh': 5}
+Time:         2019-03-19 23:00:55
+{'voltage_mv': 229377, 'current_ma': 680, 'power_mw': 150424, 'total_wh': 7}
+Time:         2019-03-19 23:01:55
+{'voltage_mv': 231797, 'current_ma': 675, 'power_mw': 150674, 'total_wh': 10}
+Time:         2019-03-19 23:02:56
+{'voltage_mv': 229477, 'current_ma': 679, 'power_mw': 150324, 'total_wh': 12}
+Time:         2019-03-19 23:03:56
+{'voltage_mv': 230933, 'current_ma': 675, 'power_mw': 150105, 'total_wh': 15}
+Time:         2019-03-19 23:04:55
+{'voltage_mv': 230001, 'current_ma': 676, 'power_mw': 149949, 'total_wh': 17}
+Time:         2019-03-19 23:05:56
+{'voltage_mv': 229011, 'current_ma': 678, 'power_mw': 149705, 'total_wh': 20}
+Time:         2019-03-19 23:06:56
+{'voltage_mv': 229458, 'current_ma': 676, 'power_mw': 149469, 'total_wh': 22}
+Time:         2019-03-19 23:07:56
+{'voltage_mv': 229625, 'current_ma': 675, 'power_mw': 149406, 'total_wh': 25}
+Time:         2019-03-19 23:08:55
+{'voltage_mv': 228706, 'current_ma': 677, 'power_mw': 149281, 'total_wh': 27}
+Time:         2019-03-19 23:09:55
+{'voltage_mv': 227074, 'current_ma': 681, 'power_mw': 149288, 'total_wh': 30}
+Time:         2019-03-19 23:10:55
+{'voltage_mv': 227585, 'current_ma': 679, 'power_mw': 149054, 'total_wh': 33}
+Time:         2019-03-19 23:11:55
+{'voltage_mv': 228153, 'current_ma': 676, 'power_mw': 148828, 'total_wh': 35}
+Time:         2019-03-19 23:12:55
+{'voltage_mv': 228194, 'current_ma': 676, 'power_mw': 148725, 'total_wh': 38}
+Time:         2019-03-19 23:13:56
+{'voltage_mv': 224071, 'current_ma': 687, 'power_mw': 148712, 'total_wh': 40}
+Time:         2019-03-19 23:14:55
+{'voltage_mv': 225617, 'current_ma': 683, 'power_mw': 148657, 'total_wh': 43}
+Time:         2019-03-19 23:15:56
+{'voltage_mv': 224816, 'current_ma': 677, 'power_mw': 146880, 'total_wh': 45}
+Time:         2019-03-19 23:16:55
+{'voltage_mv': 224516, 'current_ma': 684, 'power_mw': 148411, 'total_wh': 48}
+Time:         2019-03-19 23:17:55
+{'voltage_mv': 225182, 'current_ma': 680, 'power_mw': 147854, 'total_wh': 50}
+Time:         2019-03-19 23:18:56
+{'voltage_mv': 225564, 'current_ma': 679, 'power_mw': 147872, 'total_wh': 53}
+Time:         2019-03-19 23:19:55
+{'voltage_mv': 225135, 'current_ma': 680, 'power_mw': 147726, 'total_wh': 55}
+Time:         2019-03-19 23:20:56
+{'voltage_mv': 225470, 'current_ma': 678, 'power_mw': 147645, 'total_wh': 58}
+Time:         2019-03-19 23:21:55
+{'voltage_mv': 225674, 'current_ma': 653, 'power_mw': 141918, 'total_wh': 60}
+Time:         2019-03-19 23:22:55
+{'voltage_mv': 223697, 'current_ma': 661, 'power_mw': 142431, 'total_wh': 63}
+Time:         2019-03-19 23:23:55
+{'voltage_mv': 224631, 'current_ma': 667, 'power_mw': 144405, 'total_wh': 65}
+Time:         2019-03-19 23:24:55
+{'voltage_mv': 224362, 'current_ma': 671, 'power_mw': 145213, 'total_wh': 67}
+Time:         2019-03-19 23:25:56
+{'voltage_mv': 224691, 'current_ma': 660, 'power_mw': 142804, 'total_wh': 70}
+Time:         2019-03-19 23:26:55
+{'voltage_mv': 222904, 'current_ma': 664, 'power_mw': 142734, 'total_wh': 72}
+Time:         2019-03-19 23:27:55
+{'voltage_mv': 224177, 'current_ma': 661, 'power_mw': 142723, 'total_wh': 75}
+Time:         2019-03-19 23:28:54
+{'voltage_mv': 223961, 'current_ma': 661, 'power_mw': 142749, 'total_wh': 77}
+Time:         2019-03-19 23:29:54
+{'voltage_mv': 227237, 'current_ma': 601, 'power_mw': 129695, 'total_wh': 80}
+Time:         2019-03-19 23:30:54
+{'voltage_mv': 227128, 'current_ma': 663, 'power_mw': 145041, 'total_wh': 82}
+Time:         2019-03-19 23:31:55
+{'voltage_mv': 228254, 'current_ma': 644, 'power_mw': 141247, 'total_wh': 84}
+Time:         2019-03-19 23:32:55
+{'voltage_mv': 229125, 'current_ma': 645, 'power_mw': 141917, 'total_wh': 87}
+Time:         2019-03-19 23:33:54
+{'voltage_mv': 229545, 'current_ma': 646, 'power_mw': 142426, 'total_wh': 89}
+Time:         2019-03-19 23:34:55
+{'voltage_mv': 230757, 'current_ma': 622, 'power_mw': 137497, 'total_wh': 92}
+Time:         2019-03-19 23:35:55
+{'voltage_mv': 229985, 'current_ma': 654, 'power_mw': 144489, 'total_wh': 94}
+Time:         2019-03-19 23:36:54
+{'voltage_mv': 230796, 'current_ma': 652, 'power_mw': 144700, 'total_wh': 97}
+Time:         2019-03-19 23:37:55
+{'voltage_mv': 230870, 'current_ma': 655, 'power_mw': 145338, 'total_wh': 99}
+Time:         2019-03-19 23:38:54
+{'voltage_mv': 230758, 'current_ma': 637, 'power_mw': 141252, 'total_wh': 101}
+Time:         2019-03-19 23:39:55
+{'voltage_mv': 231275, 'current_ma': 634, 'power_mw': 141026, 'total_wh': 104}
+Time:         2019-03-19 23:40:55
+{'voltage_mv': 232327, 'current_ma': 635, 'power_mw': 141399, 'total_wh': 106}
+Time:         2019-03-19 23:41:54
+{'voltage_mv': 232177, 'current_ma': 634, 'power_mw': 141340, 'total_wh': 109}
+Time:         2019-03-19 23:42:54
+{'voltage_mv': 231498, 'current_ma': 637, 'power_mw': 141696, 'total_wh': 111}
+Time:         2019-03-19 23:43:54
+{'voltage_mv': 230545, 'current_ma': 645, 'power_mw': 143054, 'total_wh': 113}
+Time:         2019-03-19 23:44:55
+{'voltage_mv': 229014, 'current_ma': 640, 'power_mw': 141064, 'total_wh': 116}
+Time:         2019-03-19 23:45:55
+{'voltage_mv': 228266, 'current_ma': 644, 'power_mw': 141503, 'total_wh': 118}
+Time:         2019-03-19 23:46:54
+{'voltage_mv': 228195, 'current_ma': 644, 'power_mw': 141510, 'total_wh': 121}
+Time:         2019-03-19 23:47:55
+{'voltage_mv': 227023, 'current_ma': 646, 'power_mw': 141340, 'total_wh': 123}
+Time:         2019-03-19 23:48:54
+{'voltage_mv': 229056, 'current_ma': 640, 'power_mw': 141070, 'total_wh': 125}
+Time:         2019-03-19 23:49:54
+{'voltage_mv': 229011, 'current_ma': 641, 'power_mw': 141359, 'total_wh': 128}
+Time:         2019-03-19 23:50:55
+{'voltage_mv': 229412, 'current_ma': 639, 'power_mw': 141152, 'total_wh': 130}
+Time:         2019-03-19 23:51:55
+{'voltage_mv': 229248, 'current_ma': 660, 'power_mw': 145566, 'total_wh': 133}
+Time:         2019-03-19 23:52:55
+{'voltage_mv': 228932, 'current_ma': 659, 'power_mw': 145273, 'total_wh': 135}
+Time:         2019-03-19 23:53:54
+{'voltage_mv': 229375, 'current_ma': 660, 'power_mw': 145678, 'total_wh': 138}
+Time:         2019-03-19 23:54:57
+{'voltage_mv': 233070, 'current_ma': 651, 'power_mw': 145686, 'total_wh': 140}
+Time:         2019-03-19 23:55:54
+{'voltage_mv': 233086, 'current_ma': 650, 'power_mw': 145436, 'total_wh': 143}
+Time:         2019-03-19 23:56:54
+{'voltage_mv': 232094, 'current_ma': 651, 'power_mw': 145172, 'total_wh': 145}
+Time:         2019-03-19 23:57:55
+{'voltage_mv': 232974, 'current_ma': 644, 'power_mw': 143995, 'total_wh': 148}
+Time:         2019-03-19 23:58:55
+{'voltage_mv': 234072, 'current_ma': 644, 'power_mw': 144595, 'total_wh': 150}
+Time:         2019-03-19 23:59:55
+{'voltage_mv': 234847, 'current_ma': 640, 'power_mw': 144055, 'total_wh': 152}
+Time:         2019-03-20 00:00:55
+{'voltage_mv': 232804, 'current_ma': 646, 'power_mw': 144395, 'total_wh': 155}
+Time:         2019-03-20 00:01:55
+{'voltage_mv': 233135, 'current_ma': 643, 'power_mw': 143952, 'total_wh': 157}
+Time:         2019-03-20 00:02:55
+{'voltage_mv': 233698, 'current_ma': 641, 'power_mw': 143770, 'total_wh': 160}
+Time:         2019-03-20 00:03:56
+{'voltage_mv': 234173, 'current_ma': 644, 'power_mw': 144699, 'total_wh': 162}
+Time:         2019-03-20 00:04:55
+{'voltage_mv': 233944, 'current_ma': 643, 'power_mw': 144407, 'total_wh': 165}
+Time:         2019-03-20 00:05:55
+{'voltage_mv': 233924, 'current_ma': 644, 'power_mw': 144598, 'total_wh': 167}
+Time:         2019-03-20 00:06:55
+{'voltage_mv': 234160, 'current_ma': 632, 'power_mw': 141885, 'total_wh': 169}
+Time:         2019-03-20 00:07:55
+{'voltage_mv': 234229, 'current_ma': 631, 'power_mw': 141643, 'total_wh': 172}
+Time:         2019-03-20 00:08:55
+{'voltage_mv': 234149, 'current_ma': 633, 'power_mw': 142026, 'total_wh': 174}
+Time:         2019-03-20 00:09:56
+{'voltage_mv': 233589, 'current_ma': 637, 'power_mw': 142608, 'total_wh': 177}
+Time:         2019-03-20 00:10:56
+{'voltage_mv': 234263, 'current_ma': 635, 'power_mw': 142531, 'total_wh': 179}
+Time:         2019-03-20 00:11:55
+{'voltage_mv': 231631, 'current_ma': 642, 'power_mw': 142687, 'total_wh': 182}
+Time:         2019-03-20 00:12:55
+{'voltage_mv': 231915, 'current_ma': 641, 'power_mw': 142670, 'total_wh': 184}
+Time:         2019-03-20 00:13:55
+{'voltage_mv': 233967, 'current_ma': 636, 'power_mw': 142615, 'total_wh': 186}
+Time:         2019-03-20 00:14:56
+{'voltage_mv': 235293, 'current_ma': 644, 'power_mw': 145407, 'total_wh': 189}
+Time:         2019-03-20 00:15:56
+{'voltage_mv': 233483, 'current_ma': 642, 'power_mw': 143818, 'total_wh': 191}
+Time:         2019-03-20 00:16:55
+{'voltage_mv': 233255, 'current_ma': 644, 'power_mw': 144061, 'total_wh': 194}
+Time:         2019-03-20 00:17:56
+{'voltage_mv': 233258, 'current_ma': 642, 'power_mw': 143655, 'total_wh': 196}
+Time:         2019-03-20 00:18:55
+{'voltage_mv': 233412, 'current_ma': 643, 'power_mw': 144068, 'total_wh': 199}
+Time:         2019-03-20 00:19:56
+{'voltage_mv': 234511, 'current_ma': 640, 'power_mw': 143935, 'total_wh': 201}
+Time:         2019-03-20 00:20:55
+{'voltage_mv': 234672, 'current_ma': 639, 'power_mw': 143841, 'total_wh': 203}
+Time:         2019-03-20 00:21:55
+{'voltage_mv': 232734, 'current_ma': 644, 'power_mw': 143881, 'total_wh': 206}
+Time:         2019-03-20 00:22:55
+{'voltage_mv': 232206, 'current_ma': 646, 'power_mw': 144055, 'total_wh': 208}
+Time:         2019-03-20 00:23:55
+{'voltage_mv': 231967, 'current_ma': 646, 'power_mw': 144033, 'total_wh': 211}
+Time:         2019-03-20 00:24:55
+{'voltage_mv': 231729, 'current_ma': 649, 'power_mw': 144577, 'total_wh': 213}
+Time:         2019-03-20 00:25:56
+{'voltage_mv': 232671, 'current_ma': 650, 'power_mw': 145376, 'total_wh': 216}
+Time:         2019-03-20 00:26:55
+{'voltage_mv': 231984, 'current_ma': 653, 'power_mw': 145633, 'total_wh': 218}
+Time:         2019-03-23 12:58:01
+{'voltage_mv': 234433, 'current_ma': 15, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 12:58:55
+{'voltage_mv': 233685, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 12:59:56
+{'voltage_mv': 236226, 'current_ma': 15, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 13:00:55
+{'voltage_mv': 232029, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 13:01:55
+{'voltage_mv': 233272, 'current_ma': 16, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 13:02:56
+{'voltage_mv': 228925, 'current_ma': 15, 'power_mw': 0, 'total_wh': 0}
+Time:         2019-03-23 13:03:56
+{'voltage_mv': 221025, 'current_ma': 8664, 'power_mw': 1729297, 'total_wh': 23}
+Time:         2019-03-23 13:04:55
+{'voltage_mv': 227167, 'current_ma': 18, 'power_mw': 623, 'total_wh': 51}
+Time:         2019-03-23 13:05:55
+{'voltage_mv': 228402, 'current_ma': 18, 'power_mw': 596, 'total_wh': 51}
+Time:         2019-03-23 13:06:55
+{'voltage_mv': 227767, 'current_ma': 18, 'power_mw': 700, 'total_wh': 51}
+Time:         2019-03-23 13:07:56
+{'voltage_mv': 229042, 'current_ma': 18, 'power_mw': 653, 'total_wh': 51}
+Time:         2019-03-23 13:08:55
+{'voltage_mv': 233168, 'current_ma': 18, 'power_mw': 662, 'total_wh': 51}
+Time:         2019-03-25 16:13:44
+{'voltage_mv': 236613, 'current_ma': 160, 'power_mw': 15623, 'total_wh': 4}
+Time:         2019-03-25 16:14:37
+{'voltage_mv': 236531, 'current_ma': 456, 'power_mw': 45566, 'total_wh': 4}
+Time:         2019-03-25 16:15:37
+{'voltage_mv': 236561, 'current_ma': 457, 'power_mw': 45482, 'total_wh': 5}
+Time:         2019-03-25 16:16:37
+{'voltage_mv': 236502, 'current_ma': 456, 'power_mw': 45557, 'total_wh': 6}
+Time:         2019-03-25 16:17:37
+{'voltage_mv': 236182, 'current_ma': 453, 'power_mw': 45367, 'total_wh': 7}
+Time:         2019-03-25 16:18:37
+{'voltage_mv': 236609, 'current_ma': 456, 'power_mw': 45433, 'total_wh': 7}
+Time:         2019-03-25 16:19:37
+{'voltage_mv': 236144, 'current_ma': 451, 'power_mw': 45399, 'total_wh': 8}
+Time:         2019-03-25 16:20:37
+{'voltage_mv': 236941, 'current_ma': 60, 'power_mw': 2103, 'total_wh': 9}
+Time:         2019-03-26 10:37:37
+{'voltage_mv': 238964, 'current_ma': 484, 'power_mw': 50490, 'total_wh': 7}
+Time:         2019-03-26 10:38:31
+{'voltage_mv': 238948, 'current_ma': 485, 'power_mw': 50565, 'total_wh': 8}
+Time:         2019-03-26 10:39:31
+{'voltage_mv': 239167, 'current_ma': 484, 'power_mw': 50606, 'total_wh': 8}
+Time:         2019-03-26 10:40:31
+{'voltage_mv': 239281, 'current_ma': 489, 'power_mw': 50554, 'total_wh': 9}
+Time:         2019-03-26 10:41:31
+{'voltage_mv': 239174, 'current_ma': 457, 'power_mw': 45596, 'total_wh': 10}
+Time:         2019-03-26 10:42:31
+{'voltage_mv': 239342, 'current_ma': 457, 'power_mw': 45486, 'total_wh': 11}
+Time:         2019-03-26 10:43:31
+{'voltage_mv': 239174, 'current_ma': 493, 'power_mw': 50537, 'total_wh': 12}
+Time:         2019-03-26 10:44:31
+{'voltage_mv': 239206, 'current_ma': 492, 'power_mw': 50515, 'total_wh': 13}
+Time:         2019-03-26 10:45:31
+{'voltage_mv': 238880, 'current_ma': 493, 'power_mw': 50481, 'total_wh': 13}
+Time:         2019-03-26 10:46:31
+{'voltage_mv': 239107, 'current_ma': 499, 'power_mw': 50580, 'total_wh': 14}
+Time:         2019-03-26 10:47:31
+{'voltage_mv': 238781, 'current_ma': 493, 'power_mw': 50566, 'total_wh': 15}
+Time:         2019-03-26 10:48:31
+{'voltage_mv': 238915, 'current_ma': 493, 'power_mw': 50461, 'total_wh': 16}
+Time:         2019-03-26 10:49:31
+{'voltage_mv': 238819, 'current_ma': 495, 'power_mw': 50536, 'total_wh': 17}
+Time:         2019-03-26 10:50:31
+{'voltage_mv': 238867, 'current_ma': 46, 'power_mw': 5025, 'total_wh': 17}
+Time:         2019-03-26 10:51:31
+{'voltage_mv': 238846, 'current_ma': 46, 'power_mw': 5003, 'total_wh': 17}
+Time:         2019-03-26 10:53:31
+{'voltage_mv': 238649, 'current_ma': 226, 'power_mw': 21993, 'total_wh': 18}
+Time:         2019-03-26 10:54:31
+{'voltage_mv': 238267, 'current_ma': 492, 'power_mw': 50429, 'total_wh': 19}
+Time:         2019-03-26 10:55:31
+{'voltage_mv': 238050, 'current_ma': 495, 'power_mw': 50386, 'total_wh': 19}
+Time:         2019-03-26 10:56:31
+{'voltage_mv': 238191, 'current_ma': 496, 'power_mw': 50541, 'total_wh': 20}
+Time:         2019-03-26 10:57:31
+Time:         2019-03-26 10:57:45
+{'voltage_mv': 238285, 'current_ma': 497, 'power_mw': 50456, 'total_wh': 21}
+Time:         2019-03-26 10:58:46
+{'voltage_mv': 238171, 'current_ma': 495, 'power_mw': 50331, 'total_wh': 22}
+Time:         2019-03-26 10:59:47
+{'voltage_mv': 237912, 'current_ma': 496, 'power_mw': 50529, 'total_wh': 23}
+Time:         2019-03-26 11:00:47
+{'voltage_mv': 237994, 'current_ma': 496, 'power_mw': 50558, 'total_wh': 24}
+Time:         2019-03-26 11:01:47
+{'voltage_mv': 237754, 'current_ma': 499, 'power_mw': 50435, 'total_wh': 25}
+Time:         2019-03-26 11:02:47
+{'voltage_mv': 238035, 'current_ma': 499, 'power_mw': 50567, 'total_wh': 26}
+Time:         2019-03-26 11:03:47
+{'voltage_mv': 238127, 'current_ma': 497, 'power_mw': 50414, 'total_wh': 26}
+Time:         2019-03-26 11:04:47
+{'voltage_mv': 238663, 'current_ma': 497, 'power_mw': 50515, 'total_wh': 27}
+Time:         2019-03-26 11:05:47
+{'voltage_mv': 238694, 'current_ma': 499, 'power_mw': 50505, 'total_wh': 28}
+Time:         2019-03-26 11:06:47
+{'voltage_mv': 238617, 'current_ma': 498, 'power_mw': 50494, 'total_wh': 29}
+Time:         2019-03-26 11:07:47
+{'voltage_mv': 238613, 'current_ma': 499, 'power_mw': 50499, 'total_wh': 30}
+Time:         2019-03-26 11:08:46
+{'voltage_mv': 238539, 'current_ma': 499, 'power_mw': 50458, 'total_wh': 31}
+Time:         2019-03-26 11:09:47
+{'voltage_mv': 238490, 'current_ma': 497, 'power_mw': 50494, 'total_wh': 32}
+Time:         2019-03-26 11:10:47
+{'voltage_mv': 238519, 'current_ma': 496, 'power_mw': 50414, 'total_wh': 32}
+Time:         2019-03-26 11:11:47
+{'voltage_mv': 238645, 'current_ma': 495, 'power_mw': 50434, 'total_wh': 33}
+Time:         2019-03-26 11:13:47
+{'voltage_mv': 238480, 'current_ma': 494, 'power_mw': 50543, 'total_wh': 35}
+Time:         2019-03-26 11:14:46
+{'voltage_mv': 238297, 'current_ma': 503, 'power_mw': 50474, 'total_wh': 36}
+Time:         2019-03-26 11:15:47
+{'voltage_mv': 238384, 'current_ma': 494, 'power_mw': 50566, 'total_wh': 37}
+Time:         2019-03-26 11:16:46
+{'voltage_mv': 238411, 'current_ma': 498, 'power_mw': 50398, 'total_wh': 38}
+Time:         2019-03-26 11:17:47
+{'voltage_mv': 238590, 'current_ma': 503, 'power_mw': 50567, 'total_wh': 38}
+Time:         2019-03-26 11:18:47
+{'voltage_mv': 238590, 'current_ma': 498, 'power_mw': 50545, 'total_wh': 39}
+Time:         2019-03-26 11:19:47
+{'voltage_mv': 238583, 'current_ma': 497, 'power_mw': 50600, 'total_wh': 40}
+Time:         2019-03-26 11:20:47
+{'voltage_mv': 238289, 'current_ma': 499, 'power_mw': 50992, 'total_wh': 41}
+Time:         2019-03-26 11:21:47
+{'voltage_mv': 238645, 'current_ma': 503, 'power_mw': 50939, 'total_wh': 42}
+Time:         2019-03-26 11:22:48
+{'voltage_mv': 238237, 'current_ma': 496, 'power_mw': 50606, 'total_wh': 43}
+Time:         2019-03-26 11:23:48
+{'voltage_mv': 238455, 'current_ma': 495, 'power_mw': 49816, 'total_wh': 44}
+Time:         2019-03-26 11:24:48
+{'voltage_mv': 238444, 'current_ma': 490, 'power_mw': 49665, 'total_wh': 44}
+Time:         2019-03-26 11:25:46
+{'voltage_mv': 238228, 'current_ma': 470, 'power_mw': 47676, 'total_wh': 45}
+Time:         2019-03-26 11:26:47
+{'voltage_mv': 238280, 'current_ma': 472, 'power_mw': 48048, 'total_wh': 46}
+Time:         2019-03-26 11:27:47
+{'voltage_mv': 238359, 'current_ma': 467, 'power_mw': 47305, 'total_wh': 47}
+Time:         2019-03-26 11:28:47
+{'voltage_mv': 238490, 'current_ma': 490, 'power_mw': 49729, 'total_wh': 48}
+Time:         2019-03-26 11:29:47
+{'voltage_mv': 238649, 'current_ma': 46, 'power_mw': 5045, 'total_wh': 48}
+Time:         2019-03-26 11:30:46
+{'voltage_mv': 238533, 'current_ma': 46, 'power_mw': 4993, 'total_wh': 48}
+Time:         2019-03-26 11:31:46
+{'voltage_mv': 238618, 'current_ma': 46, 'power_mw': 5027, 'total_wh': 48}
+Time:         2019-03-26 11:32:45
+{'voltage_mv': 238549, 'current_ma': 46, 'power_mw': 4990, 'total_wh': 49}
+Time:         2019-03-26 11:33:45
+{'voltage_mv': 238388, 'current_ma': 46, 'power_mw': 4997, 'total_wh': 49}
+Time:         2019-03-26 11:34:46
+{'voltage_mv': 238327, 'current_ma': 46, 'power_mw': 4910, 'total_wh': 49}
+Time:         2019-03-26 11:35:46
+{'voltage_mv': 237863, 'current_ma': 46, 'power_mw': 4923, 'total_wh': 49}
+Time:         2019-03-26 11:36:45
+{'voltage_mv': 238090, 'current_ma': 46, 'power_mw': 4982, 'total_wh': 49}
+Time:         2019-03-26 11:37:46
+{'voltage_mv': 238120, 'current_ma': 46, 'power_mw': 4969, 'total_wh': 49}
+Time:         2019-03-26 11:38:45
+{'voltage_mv': 237855, 'current_ma': 46, 'power_mw': 4998, 'total_wh': 49}
+Time:         2019-03-26 11:39:46
+{'voltage_mv': 237762, 'current_ma': 46, 'power_mw': 4969, 'total_wh': 49}
+Time:         2019-03-26 11:40:45
+{'voltage_mv': 237845, 'current_ma': 46, 'power_mw': 4993, 'total_wh': 49}
+Time:         2019-03-26 11:41:46
+{'voltage_mv': 237735, 'current_ma': 46, 'power_mw': 4897, 'total_wh': 49}
+Time:         2019-03-26 11:42:46
+{'voltage_mv': 237774, 'current_ma': 46, 'power_mw': 4918, 'total_wh': 49}
+Time:         2019-03-26 11:43:46
+{'voltage_mv': 237540, 'current_ma': 332, 'power_mw': 32454, 'total_wh': 49}
+Time:         2019-03-27 09:10:40
+{'voltage_mv': 235755, 'current_ma': 425, 'power_mw': 43954, 'total_wh': 3}
+Time:         2019-03-27 09:11:36
+{'voltage_mv': 235978, 'current_ma': 387, 'power_mw': 39620, 'total_wh': 3}
+Time:         2019-03-27 09:12:36
+{'voltage_mv': 235901, 'current_ma': 329, 'power_mw': 32419, 'total_wh': 4}
+Time:         2019-03-27 09:13:35
+{'voltage_mv': 235925, 'current_ma': 350, 'power_mw': 34935, 'total_wh': 4}
+Time:         2019-03-27 09:14:36
+{'voltage_mv': 236148, 'current_ma': 353, 'power_mw': 35020, 'total_wh': 5}
+Time:         2019-03-27 09:15:36
+{'voltage_mv': 235823, 'current_ma': 353, 'power_mw': 34645, 'total_wh': 6}
+Time:         2019-03-27 09:16:36
+{'voltage_mv': 235664, 'current_ma': 357, 'power_mw': 34478, 'total_wh': 6}
+Time:         2019-03-27 09:17:36
+{'voltage_mv': 235648, 'current_ma': 353, 'power_mw': 33995, 'total_wh': 7}
+Time:         2019-03-27 09:18:36
+{'voltage_mv': 235702, 'current_ma': 356, 'power_mw': 34495, 'total_wh': 7}
+Time:         2019-03-27 09:19:35
+{'voltage_mv': 235953, 'current_ma': 323, 'power_mw': 31277, 'total_wh': 8}
+Time:         2019-03-27 09:20:35
+{'voltage_mv': 235820, 'current_ma': 15, 'power_mw': 0, 'total_wh': 8}
+Time:         2019-03-27 09:21:36
+{'voltage_mv': 235643, 'current_ma': 46, 'power_mw': 5004, 'total_wh': 8}
+Time:         2019-03-27 09:22:36
+{'voltage_mv': 235539, 'current_ma': 15, 'power_mw': 0, 'total_wh': 8}
+Time:         2019-03-27 09:23:36
+{'voltage_mv': 235804, 'current_ma': 16, 'power_mw': 0, 'total_wh': 8}
+Time:         2019-03-27 09:24:35
+{'voltage_mv': 235527, 'current_ma': 46, 'power_mw': 5036, 'total_wh': 8}
+Time:         2019-03-27 09:25:36
+{'voltage_mv': 235662, 'current_ma': 46, 'power_mw': 5049, 'total_wh': 9}
+Time:         2019-03-27 09:26:35
+{'voltage_mv': 235306, 'current_ma': 45, 'power_mw': 4908, 'total_wh': 9}
+Time:         2019-03-27 09:27:36
+{'voltage_mv': 235299, 'current_ma': 46, 'power_mw': 4921, 'total_wh': 9}
+Time:         2019-03-27 09:28:36
+{'voltage_mv': 235523, 'current_ma': 46, 'power_mw': 4986, 'total_wh': 9}
+Time:         2019-03-27 09:29:36
+{'voltage_mv': 235728, 'current_ma': 46, 'power_mw': 4957, 'total_wh': 9}
+Time:         2019-03-27 09:30:36
+{'voltage_mv': 235653, 'current_ma': 46, 'power_mw': 4982, 'total_wh': 9}
+Time:         2019-03-27 09:31:36
+{'voltage_mv': 235633, 'current_ma': 46, 'power_mw': 4996, 'total_wh': 9}
+Time:         2019-03-27 09:33:36
+{'voltage_mv': 235630, 'current_ma': 46, 'power_mw': 4934, 'total_wh': 9}
+Time:         2019-03-27 09:34:35
+{'voltage_mv': 235681, 'current_ma': 46, 'power_mw': 4960, 'total_wh': 9}
+Time:         2019-03-27 09:35:35
+{'voltage_mv': 235235, 'current_ma': 46, 'power_mw': 4965, 'total_wh': 9}
+Time:         2019-03-27 09:36:35
+{'voltage_mv': 235193, 'current_ma': 46, 'power_mw': 5008, 'total_wh': 9}
+Time:         2019-03-27 09:37:36
+{'voltage_mv': 235167, 'current_ma': 46, 'power_mw': 4999, 'total_wh': 10}
+Time:         2019-03-27 09:38:36
+{'voltage_mv': 235240, 'current_ma': 46, 'power_mw': 5030, 'total_wh': 10}
+Time:         2019-03-27 09:40:36
+{'voltage_mv': 235209, 'current_ma': 46, 'power_mw': 4982, 'total_wh': 10}
+Time:         2019-03-27 09:41:36
+{'voltage_mv': 235100, 'current_ma': 46, 'power_mw': 4972, 'total_wh': 10}
+Time:         2019-03-27 09:42:35
+{'voltage_mv': 235328, 'current_ma': 45, 'power_mw': 4967, 'total_wh': 10}
+Time:         2019-03-27 09:43:35
+{'voltage_mv': 235214, 'current_ma': 46, 'power_mw': 5033, 'total_wh': 10}
+Time:         2019-03-27 09:44:35
+{'voltage_mv': 235095, 'current_ma': 46, 'power_mw': 5003, 'total_wh': 10}
+Time:         2019-03-27 09:45:35
+{'voltage_mv': 235189, 'current_ma': 45, 'power_mw': 4952, 'total_wh': 10}
+Time:         2019-03-27 09:46:35
+{'voltage_mv': 235154, 'current_ma': 46, 'power_mw': 4988, 'total_wh': 10}
+Time:         2019-03-27 09:47:36
+{'voltage_mv': 235160, 'current_ma': 46, 'power_mw': 5057, 'total_wh': 10}
+Time:         2019-03-27 09:48:36
+{'voltage_mv': 235227, 'current_ma': 46, 'power_mw': 4897, 'total_wh': 10}
+Time:         2019-03-27 09:49:36
+{'voltage_mv': 235336, 'current_ma': 46, 'power_mw': 4954, 'total_wh': 11}
+Time:         2019-03-27 09:50:36
+{'voltage_mv': 235060, 'current_ma': 46, 'power_mw': 4909, 'total_wh': 11}
+Time:         2019-03-27 09:51:36
+{'voltage_mv': 235090, 'current_ma': 46, 'power_mw': 4940, 'total_wh': 11}
+Time:         2019-03-27 09:52:35
+{'voltage_mv': 235145, 'current_ma': 46, 'power_mw': 4986, 'total_wh': 11}
+Time:         2019-03-27 09:53:36
+{'voltage_mv': 235416, 'current_ma': 46, 'power_mw': 4910, 'total_wh': 11}
+Time:         2019-03-27 09:54:36
+{'voltage_mv': 235277, 'current_ma': 46, 'power_mw': 4961, 'total_wh': 11}
+Time:         2019-03-27 09:55:35
+{'voltage_mv': 235425, 'current_ma': 46, 'power_mw': 4920, 'total_wh': 11}
+Time:         2019-03-27 09:56:37
+{'voltage_mv': 235287, 'current_ma': 46, 'power_mw': 4981, 'total_wh': 11}
+Time:         2019-03-27 09:57:35
+{'voltage_mv': 235270, 'current_ma': 46, 'power_mw': 4983, 'total_wh': 11}
+Time:         2019-03-27 09:58:36
+{'voltage_mv': 235449, 'current_ma': 46, 'power_mw': 4999, 'total_wh': 11}
+Time:         2019-03-27 09:59:35
+{'voltage_mv': 235264, 'current_ma': 46, 'power_mw': 5009, 'total_wh': 11}
+Time:         2019-03-27 10:00:36
+{'voltage_mv': 235126, 'current_ma': 46, 'power_mw': 4976, 'total_wh': 11}
+Time:         2019-03-27 10:02:35
+{'voltage_mv': 235328, 'current_ma': 47, 'power_mw': 5098, 'total_wh': 12}
+Time:         2019-03-27 10:03:35
+{'voltage_mv': 235252, 'current_ma': 46, 'power_mw': 4964, 'total_wh': 12}
+Time:         2019-03-27 10:04:35
+{'voltage_mv': 235347, 'current_ma': 46, 'power_mw': 4948, 'total_wh': 12}
+Time:         2019-03-27 10:05:35
+{'voltage_mv': 235355, 'current_ma': 47, 'power_mw': 4995, 'total_wh': 12}
+Time:         2019-03-27 10:06:35
+{'voltage_mv': 235433, 'current_ma': 46, 'power_mw': 4976, 'total_wh': 12}
+Time:         2019-03-27 10:07:36
+{'voltage_mv': 235452, 'current_ma': 46, 'power_mw': 4966, 'total_wh': 12}
+Time:         2019-03-27 10:08:35
+{'voltage_mv': 235578, 'current_ma': 45, 'power_mw': 4904, 'total_wh': 12}
+Time:         2019-03-27 10:09:36
+{'voltage_mv': 235681, 'current_ma': 46, 'power_mw': 4960, 'total_wh': 12}
+Time:         2019-03-27 10:10:36
+{'voltage_mv': 235758, 'current_ma': 223, 'power_mw': 23488, 'total_wh': 12}
+Time:         2019-03-27 10:11:35
+{'voltage_mv': 235616, 'current_ma': 45, 'power_mw': 4911, 'total_wh': 13}
+Time:         2019-03-27 10:12:36
+{'voltage_mv': 235692, 'current_ma': 45, 'power_mw': 4892, 'total_wh': 13}
+Time:         2019-03-27 10:13:35
+{'voltage_mv': 235516, 'current_ma': 45, 'power_mw': 5041, 'total_wh': 13}
+Time:         2019-03-27 10:14:35
+{'voltage_mv': 235446, 'current_ma': 45, 'power_mw': 4913, 'total_wh': 13}
+Time:         2019-03-27 10:15:35
+{'voltage_mv': 235621, 'current_ma': 45, 'power_mw': 4976, 'total_wh': 13}
+Time:         2019-03-27 10:16:35
+{'voltage_mv': 235453, 'current_ma': 45, 'power_mw': 4939, 'total_wh': 13}
+Time:         2019-03-27 10:17:35
+{'voltage_mv': 235525, 'current_ma': 45, 'power_mw': 4953, 'total_wh': 13}
+Time:         2019-03-27 10:18:36
+{'voltage_mv': 235545, 'current_ma': 45, 'power_mw': 4935, 'total_wh': 13}
+Time:         2019-03-27 10:19:36
+{'voltage_mv': 235553, 'current_ma': 45, 'power_mw': 4931, 'total_wh': 13}
+Time:         2019-03-27 10:20:36
+{'voltage_mv': 235649, 'current_ma': 45, 'power_mw': 4908, 'total_wh': 13}
+Time:         2019-03-27 10:21:35
+{'voltage_mv': 235688, 'current_ma': 45, 'power_mw': 5045, 'total_wh': 13}
+Time:         2019-03-27 10:22:36
+{'voltage_mv': 235754, 'current_ma': 45, 'power_mw': 5032, 'total_wh': 14}
+Time:         2019-03-27 10:23:36
+{'voltage_mv': 235746, 'current_ma': 220, 'power_mw': 22984, 'total_wh': 14}
+Time:         2019-03-27 10:25:36
+{'voltage_mv': 235768, 'current_ma': 475, 'power_mw': 50594, 'total_wh': 15}
+Time:         2019-03-27 10:26:35
+{'voltage_mv': 235754, 'current_ma': 471, 'power_mw': 50541, 'total_wh': 16}
+Time:         2019-03-27 10:27:36
+{'voltage_mv': 235661, 'current_ma': 471, 'power_mw': 50421, 'total_wh': 17}
+Time:         2019-03-27 10:29:35
+{'voltage_mv': 235407, 'current_ma': 473, 'power_mw': 50555, 'total_wh': 18}
+Time:         2019-03-27 10:30:36
+{'voltage_mv': 235561, 'current_ma': 476, 'power_mw': 50453, 'total_wh': 19}
+Time:         2019-03-27 10:31:36
+{'voltage_mv': 235730, 'current_ma': 475, 'power_mw': 50595, 'total_wh': 20}
+Time:         2019-03-27 10:32:36
+{'voltage_mv': 235640, 'current_ma': 472, 'power_mw': 50471, 'total_wh': 21}
+Time:         2019-03-27 10:33:35
+{'voltage_mv': 235352, 'current_ma': 475, 'power_mw': 50545, 'total_wh': 22}
+Time:         2019-03-27 10:35:36
+{'voltage_mv': 235463, 'current_ma': 476, 'power_mw': 50858, 'total_wh': 23}
+Time:         2019-03-27 10:36:35
+{'voltage_mv': 235620, 'current_ma': 481, 'power_mw': 50967, 'total_wh': 24}
+Time:         2019-03-27 10:39:37
+{'voltage_mv': 235608, 'current_ma': 453, 'power_mw': 48547, 'total_wh': 27}
+Time:         2019-03-27 10:41:37
+{'voltage_mv': 235473, 'current_ma': 429, 'power_mw': 45555, 'total_wh': 29}
+Time:         2019-03-27 10:43:37
+{'voltage_mv': 235710, 'current_ma': 429, 'power_mw': 45118, 'total_wh': 30}
+Time:         2019-03-27 10:44:36
+{'voltage_mv': 235376, 'current_ma': 404, 'power_mw': 42702, 'total_wh': 31}
+Time:         2019-03-27 10:45:36
+{'voltage_mv': 235677, 'current_ma': 424, 'power_mw': 43342, 'total_wh': 32}
+Time:         2019-03-27 10:46:36
+{'voltage_mv': 235808, 'current_ma': 413, 'power_mw': 43378, 'total_wh': 32}
+Time:         2019-03-27 10:47:37
+{'voltage_mv': 235823, 'current_ma': 401, 'power_mw': 42284, 'total_wh': 33}
+Time:         2019-03-27 10:48:37
+{'voltage_mv': 235755, 'current_ma': 374, 'power_mw': 39452, 'total_wh': 34}
+Time:         2019-03-27 10:50:36
+{'voltage_mv': 235714, 'current_ma': 371, 'power_mw': 39404, 'total_wh': 35}
+Time:         2019-03-27 10:51:37
+{'voltage_mv': 236171, 'current_ma': 350, 'power_mw': 36835, 'total_wh': 36}
+Time:         2019-03-27 10:52:37
+{'voltage_mv': 236134, 'current_ma': 342, 'power_mw': 36002, 'total_wh': 36}
+Time:         2019-03-27 10:53:37
+{'voltage_mv': 235860, 'current_ma': 335, 'power_mw': 35201, 'total_wh': 37}
+Time:         2019-03-27 10:54:36
+{'voltage_mv': 235952, 'current_ma': 326, 'power_mw': 34525, 'total_wh': 37}
+Time:         2019-03-27 10:55:37
+{'voltage_mv': 235716, 'current_ma': 320, 'power_mw': 34037, 'total_wh': 38}
+Time:         2019-03-27 10:57:37
+{'voltage_mv': 235927, 'current_ma': 312, 'power_mw': 32775, 'total_wh': 39}
+Time:         2019-03-27 10:58:36
+{'voltage_mv': 235800, 'current_ma': 301, 'power_mw': 31937, 'total_wh': 40}
+Time:         2019-03-27 10:59:36
+{'voltage_mv': 235766, 'current_ma': 269, 'power_mw': 28729, 'total_wh': 40}
+Time:         2019-03-27 11:01:37
+{'voltage_mv': 235600, 'current_ma': 262, 'power_mw': 27989, 'total_wh': 41}
+Time:         2019-03-27 11:02:37
+{'voltage_mv': 236005, 'current_ma': 260, 'power_mw': 27757, 'total_wh': 42}
+Time:         2019-03-27 11:04:37
+{'voltage_mv': 236111, 'current_ma': 251, 'power_mw': 26863, 'total_wh': 43}
+Time:         2019-03-27 11:06:36
+{'voltage_mv': 236005, 'current_ma': 16, 'power_mw': 0, 'total_wh': 43}
+Time:         2019-03-27 11:07:37
+{'voltage_mv': 235924, 'current_ma': 16, 'power_mw': 0, 'total_wh': 43}
+Time:         2019-03-27 11:09:37
+{'voltage_mv': 235827, 'current_ma': 45, 'power_mw': 5016, 'total_wh': 43}
+Time:         2019-03-27 11:11:37
+{'voltage_mv': 235876, 'current_ma': 45, 'power_mw': 4952, 'total_wh': 43}
+Time:         2019-03-27 11:12:37
+{'voltage_mv': 235997, 'current_ma': 45, 'power_mw': 4939, 'total_wh': 43}
+Time:         2019-03-27 11:14:36
+{'voltage_mv': 235388, 'current_ma': 45, 'power_mw': 4944, 'total_wh': 43}
+Time:         2019-03-27 11:15:37
+{'voltage_mv': 235590, 'current_ma': 45, 'power_mw': 4985, 'total_wh': 43}
+Time:         2019-03-27 11:16:37
+{'voltage_mv': 235654, 'current_ma': 45, 'power_mw': 4909, 'total_wh': 43}
+Time:         2019-03-27 11:17:37
+{'voltage_mv': 235771, 'current_ma': 46, 'power_mw': 5118, 'total_wh': 43}
+Time:         2019-03-27 11:18:36
+{'voltage_mv': 235540, 'current_ma': 46, 'power_mw': 4994, 'total_wh': 43}
+Time:         2019-03-27 11:19:36
+{'voltage_mv': 235438, 'current_ma': 45, 'power_mw': 4889, 'total_wh': 44}
+Time:         2019-03-27 11:20:36
+{'voltage_mv': 235320, 'current_ma': 45, 'power_mw': 4942, 'total_wh': 44}
+Time:         2019-03-27 11:21:37
+{'voltage_mv': 235255, 'current_ma': 45, 'power_mw': 4975, 'total_wh': 44}
+Time:         2019-03-27 11:22:36
+{'voltage_mv': 235025, 'current_ma': 45, 'power_mw': 4964, 'total_wh': 44}
+Time:         2019-03-27 11:23:37
+{'voltage_mv': 235191, 'current_ma': 45, 'power_mw': 4954, 'total_wh': 44}
+Time:         2019-03-27 11:24:36
+{'voltage_mv': 235217, 'current_ma': 45, 'power_mw': 4913, 'total_wh': 44}
+Time:         2019-03-27 11:25:37
+{'voltage_mv': 235200, 'current_ma': 46, 'power_mw': 4990, 'total_wh': 44}
+Time:         2019-03-27 11:26:37
+{'voltage_mv': 235393, 'current_ma': 45, 'power_mw': 4971, 'total_wh': 44}
+Time:         2019-03-27 11:27:37
+{'voltage_mv': 235354, 'current_ma': 45, 'power_mw': 4957, 'total_wh': 44}
+Time:         2019-03-27 11:28:36
+{'voltage_mv': 235085, 'current_ma': 45, 'power_mw': 4837, 'total_wh': 44}
+Time:         2019-03-27 11:29:38
+{'voltage_mv': 234871, 'current_ma': 45, 'power_mw': 4889, 'total_wh': 44}
+Time:         2019-03-27 11:31:36
+{'voltage_mv': 235565, 'current_ma': 45, 'power_mw': 4890, 'total_wh': 45}
+Time:         2019-03-27 11:32:37
+{'voltage_mv': 235768, 'current_ma': 45, 'power_mw': 4905, 'total_wh': 45}
+Time:         2019-03-27 11:34:36
+{'voltage_mv': 235452, 'current_ma': 45, 'power_mw': 5014, 'total_wh': 45}
+Time:         2019-03-27 11:35:35
+{'voltage_mv': 235603, 'current_ma': 45, 'power_mw': 5000, 'total_wh': 45}
+Time:         2019-03-27 11:36:36
+{'voltage_mv': 236135, 'current_ma': 45, 'power_mw': 4900, 'total_wh': 45}
+Time:         2019-03-27 11:37:36
+{'voltage_mv': 235965, 'current_ma': 45, 'power_mw': 4915, 'total_wh': 45}
+Time:         2019-03-27 11:38:35
+{'voltage_mv': 235852, 'current_ma': 45, 'power_mw': 4941, 'total_wh': 45}
+Time:         2019-03-27 11:39:36
+{'voltage_mv': 235863, 'current_ma': 45, 'power_mw': 4945, 'total_wh': 45}
+Time:         2019-03-27 11:40:36
+{'voltage_mv': 235685, 'current_ma': 45, 'power_mw': 4920, 'total_wh': 45}
+Time:         2019-03-27 11:41:35
+{'voltage_mv': 235469, 'current_ma': 45, 'power_mw': 4973, 'total_wh': 45}
+Time:         2019-03-27 11:42:35
+{'voltage_mv': 235873, 'current_ma': 45, 'power_mw': 4914, 'total_wh': 46}
+Time:         2019-03-27 11:43:36
+{'voltage_mv': 236424, 'current_ma': 45, 'power_mw': 4896, 'total_wh': 46}
+Time:         2019-03-27 11:44:35
+{'voltage_mv': 236373, 'current_ma': 45, 'power_mw': 4993, 'total_wh': 46}
+Time:         2019-03-27 11:45:36
+{'voltage_mv': 236041, 'current_ma': 221, 'power_mw': 22757, 'total_wh': 46}
+Time:         2019-03-27 11:46:36
+{'voltage_mv': 236207, 'current_ma': 485, 'power_mw': 50949, 'total_wh': 46}
+Time:         2019-03-27 11:47:35
+{'voltage_mv': 236384, 'current_ma': 462, 'power_mw': 48452, 'total_wh': 47}
+Time:         2019-03-27 11:48:35
+{'voltage_mv': 236244, 'current_ma': 453, 'power_mw': 47444, 'total_wh': 48}
+Time:         2019-03-27 11:49:35
+{'voltage_mv': 236245, 'current_ma': 432, 'power_mw': 44911, 'total_wh': 49}
+Time:         2019-03-27 11:50:36
+{'voltage_mv': 236416, 'current_ma': 426, 'power_mw': 44457, 'total_wh': 50}
+Time:         2019-03-27 11:51:35
+{'voltage_mv': 236202, 'current_ma': 418, 'power_mw': 43496, 'total_wh': 50}
+Time:         2019-03-27 11:52:36
+{'voltage_mv': 236219, 'current_ma': 400, 'power_mw': 42137, 'total_wh': 51}
+Time:         2019-03-27 11:53:35
+{'voltage_mv': 236200, 'current_ma': 411, 'power_mw': 42821, 'total_wh': 52}
+Time:         2019-03-27 11:54:36
+{'voltage_mv': 235958, 'current_ma': 399, 'power_mw': 41657, 'total_wh': 53}
+Time:         2019-03-27 11:55:36
+{'voltage_mv': 235896, 'current_ma': 381, 'power_mw': 39677, 'total_wh': 53}
+Time:         2019-03-27 11:56:36
+{'voltage_mv': 236442, 'current_ma': 390, 'power_mw': 40310, 'total_wh': 54}
+Time:         2019-03-27 11:57:35
+{'voltage_mv': 236185, 'current_ma': 380, 'power_mw': 39497, 'total_wh': 55}
+Time:         2019-03-27 11:58:36
+{'voltage_mv': 236597, 'current_ma': 359, 'power_mw': 37226, 'total_wh': 55}
+Time:         2019-03-27 12:00:35
+{'voltage_mv': 236550, 'current_ma': 352, 'power_mw': 36397, 'total_wh': 57}
+Time:         2019-03-27 12:01:35
+{'voltage_mv': 236513, 'current_ma': 360, 'power_mw': 36826, 'total_wh': 57}
+Time:         2019-03-27 12:02:36
+{'voltage_mv': 236636, 'current_ma': 221, 'power_mw': 23249, 'total_wh': 58}
+Time:         2019-03-27 12:03:36
+{'voltage_mv': 236663, 'current_ma': 226, 'power_mw': 23751, 'total_wh': 58}
+Time:         2019-03-27 12:04:35
+{'voltage_mv': 236689, 'current_ma': 318, 'power_mw': 33000, 'total_wh': 59}
+Time:         2019-03-27 12:05:36
+{'voltage_mv': 236909, 'current_ma': 307, 'power_mw': 31977, 'total_wh': 59}
+Time:         2019-03-27 12:06:36
+{'voltage_mv': 236831, 'current_ma': 308, 'power_mw': 31950, 'total_wh': 60}
+Time:         2019-03-27 12:07:36
+{'voltage_mv': 236636, 'current_ma': 302, 'power_mw': 31258, 'total_wh': 60}
+Time:         2019-03-27 12:08:36
+{'voltage_mv': 236894, 'current_ma': 303, 'power_mw': 31621, 'total_wh': 61}
+Time:         2019-03-27 12:09:36
+{'voltage_mv': 236732, 'current_ma': 256, 'power_mw': 26668, 'total_wh': 61}
+Time:         2019-03-27 12:10:35
+{'voltage_mv': 236455, 'current_ma': 252, 'power_mw': 26285, 'total_wh': 62}
+Time:         2019-03-27 12:11:36
+{'voltage_mv': 236399, 'current_ma': 248, 'power_mw': 25985, 'total_wh': 62}
+Time:         2019-03-27 12:12:35
+{'voltage_mv': 236428, 'current_ma': 245, 'power_mw': 25615, 'total_wh': 63}
+Time:         2019-03-27 12:13:35
+{'voltage_mv': 236378, 'current_ma': 256, 'power_mw': 26454, 'total_wh': 63}
+Time:         2019-03-27 12:14:35
+{'voltage_mv': 236325, 'current_ma': 45, 'power_mw': 4973, 'total_wh': 63}
+Time:         2019-03-27 12:15:36
+{'voltage_mv': 236457, 'current_ma': 50, 'power_mw': 5640, 'total_wh': 63}
+Time:         2019-03-27 12:16:35
+{'voltage_mv': 236563, 'current_ma': 45, 'power_mw': 4903, 'total_wh': 63}
+Time:         2019-03-27 12:17:35
+{'voltage_mv': 237263, 'current_ma': 16, 'power_mw': 0, 'total_wh': 63}
+Time:         2019-03-27 12:18:36
+{'voltage_mv': 236927, 'current_ma': 16, 'power_mw': 0, 'total_wh': 63}
+Time:         2019-03-27 12:19:36
+{'voltage_mv': 236959, 'current_ma': 16, 'power_mw': 0, 'total_wh': 63}
+Time:         2019-03-27 12:20:35
+{'voltage_mv': 236718, 'current_ma': 45, 'power_mw': 4982, 'total_wh': 64}
+Time:         2019-03-27 12:21:36
+{'voltage_mv': 236600, 'current_ma': 45, 'power_mw': 4977, 'total_wh': 64}
+Time:         2019-03-27 12:22:36
+{'voltage_mv': 236832, 'current_ma': 45, 'power_mw': 4888, 'total_wh': 64}
+Time:         2019-03-27 12:23:35
+{'voltage_mv': 236297, 'current_ma': 45, 'power_mw': 5015, 'total_wh': 64}
+Time:         2019-03-27 12:24:35
+{'voltage_mv': 236403, 'current_ma': 45, 'power_mw': 4957, 'total_wh': 64}
+Time:         2019-03-27 12:25:35
+{'voltage_mv': 236291, 'current_ma': 45, 'power_mw': 4998, 'total_wh': 64}
+Time:         2019-03-27 12:26:35
+{'voltage_mv': 236285, 'current_ma': 45, 'power_mw': 4962, 'total_wh': 64}
+Time:         2019-03-27 12:28:36
+{'voltage_mv': 235844, 'current_ma': 45, 'power_mw': 5053, 'total_wh': 64}
+Time:         2019-03-27 12:29:36
+{'voltage_mv': 235795, 'current_ma': 45, 'power_mw': 4968, 'total_wh': 64}
+Time:         2019-03-27 12:30:35
+{'voltage_mv': 235984, 'current_ma': 45, 'power_mw': 4979, 'total_wh': 64}
+Time:         2019-03-27 12:31:36
+{'voltage_mv': 235797, 'current_ma': 45, 'power_mw': 4903, 'total_wh': 64}
+Time:         2019-03-27 12:32:36
+{'voltage_mv': 236044, 'current_ma': 16, 'power_mw': 0, 'total_wh': 65}
+Time:         2019-03-27 12:33:36
+{'voltage_mv': 235917, 'current_ma': 250, 'power_mw': 26695, 'total_wh': 65}
+Time:         2019-03-27 12:34:36
+{'voltage_mv': 235821, 'current_ma': 410, 'power_mw': 42648, 'total_wh': 65}
+Time:         2019-03-27 12:35:36
+{'voltage_mv': 235924, 'current_ma': 374, 'power_mw': 39201, 'total_wh': 66}
+Time:         2019-03-27 12:36:36
+{'voltage_mv': 236072, 'current_ma': 360, 'power_mw': 37862, 'total_wh': 67}
+Time:         2019-03-27 12:37:37
+{'voltage_mv': 235975, 'current_ma': 16, 'power_mw': 0, 'total_wh': 67}
+Time:         2019-03-27 12:38:37
+{'voltage_mv': 235997, 'current_ma': 16, 'power_mw': 0, 'total_wh': 67}
+Time:         2019-03-27 12:39:37
+{'voltage_mv': 236037, 'current_ma': 16, 'power_mw': 0, 'total_wh': 67}
+Time:         2019-03-27 12:40:36
+{'voltage_mv': 235671, 'current_ma': 193, 'power_mw': 20044, 'total_wh': 67}
+Time:         2019-03-27 12:41:37
+{'voltage_mv': 235720, 'current_ma': 347, 'power_mw': 35917, 'total_wh': 68}
+Time:         2019-03-27 12:42:37
+{'voltage_mv': 235896, 'current_ma': 332, 'power_mw': 34502, 'total_wh': 68}
+Time:         2019-03-27 12:43:36
+{'voltage_mv': 235984, 'current_ma': 323, 'power_mw': 33616, 'total_wh': 69}
+Time:         2019-03-27 12:44:37
+{'voltage_mv': 235972, 'current_ma': 287, 'power_mw': 29914, 'total_wh': 69}
+Time:         2019-03-27 12:45:37
+{'voltage_mv': 235850, 'current_ma': 281, 'power_mw': 29335, 'total_wh': 70}
+Time:         2019-03-27 12:46:36
+{'voltage_mv': 235988, 'current_ma': 277, 'power_mw': 28806, 'total_wh': 70}
+Time:         2019-03-27 12:47:37
+{'voltage_mv': 235923, 'current_ma': 267, 'power_mw': 28198, 'total_wh': 71}
+Time:         2019-03-27 12:48:37
+{'voltage_mv': 235951, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:49:36
+{'voltage_mv': 235831, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:50:36
+{'voltage_mv': 235978, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:51:37
+{'voltage_mv': 236028, 'current_ma': 15, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:52:36
+{'voltage_mv': 235944, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:53:37
+{'voltage_mv': 236146, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:54:37
+{'voltage_mv': 236346, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:55:36
+{'voltage_mv': 236965, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:56:36
+{'voltage_mv': 236841, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:57:36
+{'voltage_mv': 236865, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:58:37
+{'voltage_mv': 237076, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 12:59:36
+{'voltage_mv': 237018, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:00:37
+{'voltage_mv': 237019, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:01:36
+{'voltage_mv': 237190, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:02:36
+{'voltage_mv': 237103, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:03:37
+{'voltage_mv': 237085, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:04:37
+{'voltage_mv': 237214, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:05:36
+{'voltage_mv': 237413, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:06:36
+{'voltage_mv': 237075, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:07:36
+{'voltage_mv': 237237, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:08:35
+{'voltage_mv': 237270, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:09:35
+{'voltage_mv': 237216, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:10:35
+{'voltage_mv': 237452, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:11:35
+{'voltage_mv': 236953, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:12:35
+{'voltage_mv': 237149, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:13:35
+{'voltage_mv': 237271, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:14:35
+{'voltage_mv': 236989, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:15:35
+{'voltage_mv': 237231, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:16:36
+{'voltage_mv': 237359, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:17:35
+{'voltage_mv': 237580, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:18:35
+{'voltage_mv': 237407, 'current_ma': 15, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:19:35
+{'voltage_mv': 237277, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:20:35
+{'voltage_mv': 237458, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:21:35
+{'voltage_mv': 237613, 'current_ma': 15, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:22:35
+{'voltage_mv': 237445, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:23:35
+{'voltage_mv': 237289, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:24:35
+{'voltage_mv': 237060, 'current_ma': 15, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:25:35
+{'voltage_mv': 237249, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:26:35
+{'voltage_mv': 237257, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:28:35
+{'voltage_mv': 237069, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:29:35
+{'voltage_mv': 237023, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:30:35
+{'voltage_mv': 237336, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:31:35
+{'voltage_mv': 237010, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:33:36
+{'voltage_mv': 237302, 'current_ma': 15, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:34:35
+{'voltage_mv': 237221, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:58:26
+{'voltage_mv': 236594, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:58:36
+{'voltage_mv': 236638, 'current_ma': 16, 'power_mw': 0, 'total_wh': 71}
+Time:         2019-03-27 13:59:37
+{'voltage_mv': 236414, 'current_ma': 195, 'power_mw': 19947, 'total_wh': 72}
+Time:         2019-03-27 14:00:37
+{'voltage_mv': 236344, 'current_ma': 399, 'power_mw': 41241, 'total_wh': 72}
+Time:         2019-03-27 14:01:37
+{'voltage_mv': 236632, 'current_ma': 381, 'power_mw': 39546, 'total_wh': 73}
+Time:         2019-03-27 14:02:37
+{'voltage_mv': 236632, 'current_ma': 368, 'power_mw': 38461, 'total_wh': 73}
+Time:         2019-03-27 14:03:37
+{'voltage_mv': 236642, 'current_ma': 363, 'power_mw': 37564, 'total_wh': 74}
+Time:         2019-03-27 14:04:37
+{'voltage_mv': 236890, 'current_ma': 358, 'power_mw': 36778, 'total_wh': 75}
+Time:         2019-03-27 14:05:37
+{'voltage_mv': 236564, 'current_ma': 351, 'power_mw': 36098, 'total_wh': 75}
+Time:         2019-03-27 14:06:37
+{'voltage_mv': 236535, 'current_ma': 344, 'power_mw': 35617, 'total_wh': 76}
+Time:         2019-03-27 14:07:37
+{'voltage_mv': 236609, 'current_ma': 336, 'power_mw': 35008, 'total_wh': 77}
+Time:         2019-03-27 14:08:37
+{'voltage_mv': 236369, 'current_ma': 328, 'power_mw': 34138, 'total_wh': 77}
+Time:         2019-03-27 14:09:37
+{'voltage_mv': 236272, 'current_ma': 318, 'power_mw': 33031, 'total_wh': 78}
+Time:         2019-03-27 14:10:37
+{'voltage_mv': 236328, 'current_ma': 324, 'power_mw': 33562, 'total_wh': 78}
+Time:         2019-03-27 14:11:37
+{'voltage_mv': 236257, 'current_ma': 297, 'power_mw': 31022, 'total_wh': 79}
+Time:         2019-03-27 14:12:37
+{'voltage_mv': 236100, 'current_ma': 294, 'power_mw': 30865, 'total_wh': 79}
+Time:         2019-03-27 14:13:37
+{'voltage_mv': 236474, 'current_ma': 299, 'power_mw': 31260, 'total_wh': 80}
+Time:         2019-03-27 14:14:37
+{'voltage_mv': 236346, 'current_ma': 262, 'power_mw': 27525, 'total_wh': 80}
+Time:         2019-03-27 14:16:37
+{'voltage_mv': 236442, 'current_ma': 45, 'power_mw': 4988, 'total_wh': 81}
+Time:         2019-03-27 14:17:37
+{'voltage_mv': 236420, 'current_ma': 46, 'power_mw': 5041, 'total_wh': 81}
+Time:         2019-03-27 14:18:37
+{'voltage_mv': 236425, 'current_ma': 46, 'power_mw': 5001, 'total_wh': 81}
+Time:         2019-03-27 14:19:37
+{'voltage_mv': 236162, 'current_ma': 45, 'power_mw': 4973, 'total_wh': 81}
+Time:         2019-03-27 14:20:37
+{'voltage_mv': 236208, 'current_ma': 45, 'power_mw': 5002, 'total_wh': 81}
+Time:         2019-03-27 14:21:37
+{'voltage_mv': 236600, 'current_ma': 45, 'power_mw': 4943, 'total_wh': 81}
+Time:         2019-03-27 14:22:37
+{'voltage_mv': 236446, 'current_ma': 46, 'power_mw': 5041, 'total_wh': 81}
+Time:         2019-03-27 14:24:37
+{'voltage_mv': 236694, 'current_ma': 46, 'power_mw': 4974, 'total_wh': 82}
+Time:         2019-03-27 14:25:37
+{'voltage_mv': 236576, 'current_ma': 45, 'power_mw': 4971, 'total_wh': 82}
+Time:         2019-03-27 14:26:37
+{'voltage_mv': 236907, 'current_ma': 45, 'power_mw': 4912, 'total_wh': 82}
+Time:         2019-03-27 14:27:37
+{'voltage_mv': 237001, 'current_ma': 45, 'power_mw': 4940, 'total_wh': 82}
+Time:         2019-03-27 14:28:37
+{'voltage_mv': 237005, 'current_ma': 45, 'power_mw': 4920, 'total_wh': 82}
+Time:         2019-03-27 14:29:37
+{'voltage_mv': 236949, 'current_ma': 45, 'power_mw': 4978, 'total_wh': 82}
+Time:         2019-03-27 14:30:37
+{'voltage_mv': 237320, 'current_ma': 45, 'power_mw': 4978, 'total_wh': 82}
+Time:         2019-03-27 14:31:37
+{'voltage_mv': 237072, 'current_ma': 46, 'power_mw': 4963, 'total_wh': 82}
+Time:         2019-03-27 14:32:37
+{'voltage_mv': 237114, 'current_ma': 46, 'power_mw': 4941, 'total_wh': 82}
+Time:         2019-03-27 14:33:37
+{'voltage_mv': 237257, 'current_ma': 45, 'power_mw': 4969, 'total_wh': 82}
+Time:         2019-03-27 14:34:36
+{'voltage_mv': 237220, 'current_ma': 46, 'power_mw': 4965, 'total_wh': 82}
+Time:         2019-03-27 14:35:36
+{'voltage_mv': 237192, 'current_ma': 46, 'power_mw': 4974, 'total_wh': 82}
+Time:         2019-03-27 14:36:36
+{'voltage_mv': 237227, 'current_ma': 45, 'power_mw': 4975, 'total_wh': 83}
+Time:         2019-03-27 14:38:36
+{'voltage_mv': 237441, 'current_ma': 176, 'power_mw': 17886, 'total_wh': 83}
+Time:         2019-03-27 14:39:35
+{'voltage_mv': 237730, 'current_ma': 16, 'power_mw': 0, 'total_wh': 83}
+Time:         2019-03-27 14:40:35
+{'voltage_mv': 237598, 'current_ma': 16, 'power_mw': 0, 'total_wh': 83}
+Time:         2019-03-27 14:41:36
+{'voltage_mv': 237505, 'current_ma': 16, 'power_mw': 0, 'total_wh': 83}
+Time:         2019-03-27 14:42:35
+{'voltage_mv': 237632, 'current_ma': 16, 'power_mw': 0, 'total_wh': 83}
+Time:         2019-03-27 14:43:36
+{'voltage_mv': 237711, 'current_ma': 51, 'power_mw': 5684, 'total_wh': 83}
+Time:         2019-03-27 14:44:36
+{'voltage_mv': 237569, 'current_ma': 51, 'power_mw': 5735, 'total_wh': 83}
+Time:         2019-03-27 14:45:36
+{'voltage_mv': 237704, 'current_ma': 51, 'power_mw': 5738, 'total_wh': 83}
+Time:         2019-03-27 14:46:36
+{'voltage_mv': 237357, 'current_ma': 178, 'power_mw': 18724, 'total_wh': 83}
+Time:         2019-03-27 14:47:35
+{'voltage_mv': 237492, 'current_ma': 393, 'power_mw': 40914, 'total_wh': 84}
+Time:         2019-03-27 14:48:36
+{'voltage_mv': 237490, 'current_ma': 206, 'power_mw': 21433, 'total_wh': 85}
+Time:         2019-03-27 14:49:35
+{'voltage_mv': 237701, 'current_ma': 422, 'power_mw': 43248, 'total_wh': 85}
+Time:         2019-03-27 14:50:35
+{'voltage_mv': 237727, 'current_ma': 403, 'power_mw': 41527, 'total_wh': 86}
+Time:         2019-03-27 14:51:36
+{'voltage_mv': 237266, 'current_ma': 381, 'power_mw': 39132, 'total_wh': 86}
+Time:         2019-03-27 14:52:36
+{'voltage_mv': 237196, 'current_ma': 373, 'power_mw': 38895, 'total_wh': 87}
+Time:         2019-03-27 14:53:36
+{'voltage_mv': 236991, 'current_ma': 376, 'power_mw': 38716, 'total_wh': 88}
+Time:         2019-03-27 14:54:36
+{'voltage_mv': 236975, 'current_ma': 360, 'power_mw': 37156, 'total_wh': 88}
+Time:         2019-03-27 14:55:36
+{'voltage_mv': 237145, 'current_ma': 347, 'power_mw': 36358, 'total_wh': 89}
+Time:         2019-03-27 14:56:36
+{'voltage_mv': 236991, 'current_ma': 339, 'power_mw': 35366, 'total_wh': 90}
+Time:         2019-03-27 14:57:36
+{'voltage_mv': 237023, 'current_ma': 329, 'power_mw': 34534, 'total_wh': 90}
+Time:         2019-03-27 15:00:35
+{'voltage_mv': 236802, 'current_ma': 51, 'power_mw': 5828, 'total_wh': 91}
+Time:         2019-03-27 15:01:36
+{'voltage_mv': 236830, 'current_ma': 226, 'power_mw': 24105, 'total_wh': 92}
+Time:         2019-03-27 15:02:35
+{'voltage_mv': 236688, 'current_ma': 360, 'power_mw': 37509, 'total_wh': 92}
+Time:         2019-03-27 15:03:36
+{'voltage_mv': 236704, 'current_ma': 314, 'power_mw': 33223, 'total_wh': 93}
+Time:         2019-03-27 15:04:36
+{'voltage_mv': 236567, 'current_ma': 302, 'power_mw': 31904, 'total_wh': 93}
+Time:         2019-03-27 15:06:36
+{'voltage_mv': 236700, 'current_ma': 210, 'power_mw': 22812, 'total_wh': 94}
+Time:         2019-03-27 15:07:36
+{'voltage_mv': 236705, 'current_ma': 301, 'power_mw': 31826, 'total_wh': 95}
+Time:         2019-03-27 15:08:36
+{'voltage_mv': 236815, 'current_ma': 294, 'power_mw': 31203, 'total_wh': 95}
+Time:         2019-03-27 15:10:35
+{'voltage_mv': 236899, 'current_ma': 293, 'power_mw': 31163, 'total_wh': 96}
+Time:         2019-03-27 15:11:35
+{'voltage_mv': 236845, 'current_ma': 222, 'power_mw': 23926, 'total_wh': 97}
+Time:         2019-03-27 15:12:36
+{'voltage_mv': 236751, 'current_ma': 295, 'power_mw': 31035, 'total_wh': 97}
+Time:         2019-03-27 15:13:35
+{'voltage_mv': 236618, 'current_ma': 273, 'power_mw': 29106, 'total_wh': 98}
+Time:         2019-03-27 15:14:36
+{'voltage_mv': 236868, 'current_ma': 284, 'power_mw': 30147, 'total_wh': 98}
+Time:         2019-03-27 15:15:35
+{'voltage_mv': 236787, 'current_ma': 272, 'power_mw': 28699, 'total_wh': 99}
+Time:         2019-03-27 15:16:35
+{'voltage_mv': 236732, 'current_ma': 16, 'power_mw': 0, 'total_wh': 99}
+Time:         2019-03-27 15:17:35
+{'voltage_mv': 236779, 'current_ma': 16, 'power_mw': 0, 'total_wh': 99}
+Time:         2019-03-27 15:18:36
+{'voltage_mv': 236666, 'current_ma': 16, 'power_mw': 0, 'total_wh': 99}
+Time:         2019-03-27 15:19:36
+{'voltage_mv': 236880, 'current_ma': 16, 'power_mw': 0, 'total_wh': 99}
+Time:         2019-03-27 15:20:35
+{'voltage_mv': 236889, 'current_ma': 224, 'power_mw': 24105, 'total_wh': 100}
+Time:         2019-03-27 15:21:36
+{'voltage_mv': 236512, 'current_ma': 302, 'power_mw': 31684, 'total_wh': 100}
+Time:         2019-03-27 15:22:36
+{'voltage_mv': 236644, 'current_ma': 308, 'power_mw': 32414, 'total_wh': 101}
+Time:         2019-03-27 15:23:36
+{'voltage_mv': 236820, 'current_ma': 282, 'power_mw': 29907, 'total_wh': 101}
+Time:         2019-03-27 15:24:36
+{'voltage_mv': 237068, 'current_ma': 280, 'power_mw': 29594, 'total_wh': 102}
+Time:         2019-03-27 15:26:36
+{'voltage_mv': 237369, 'current_ma': 294, 'power_mw': 31008, 'total_wh': 103}
+Time:         2019-03-27 15:27:35
+{'voltage_mv': 237371, 'current_ma': 231, 'power_mw': 24404, 'total_wh': 103}
+Time:         2019-03-27 15:29:35
+{'voltage_mv': 237213, 'current_ma': 226, 'power_mw': 23991, 'total_wh': 104}
+Time:         2019-03-27 15:30:35
+{'voltage_mv': 237296, 'current_ma': 52, 'power_mw': 5876, 'total_wh': 104}
+Time:         2019-03-27 15:31:36
+{'voltage_mv': 236939, 'current_ma': 52, 'power_mw': 5832, 'total_wh': 104}
+Time:         2019-03-27 15:32:36
+{'voltage_mv': 236804, 'current_ma': 50, 'power_mw': 5699, 'total_wh': 104}
+Time:         2019-03-27 15:33:35
+{'voltage_mv': 236725, 'current_ma': 51, 'power_mw': 5754, 'total_wh': 105}
+Time:         2019-03-27 15:34:36
+{'voltage_mv': 236705, 'current_ma': 49, 'power_mw': 5387, 'total_wh': 105}
+Time:         2019-03-27 15:35:36
+{'voltage_mv': 236815, 'current_ma': 48, 'power_mw': 5213, 'total_wh': 105}
+Time:         2019-03-27 15:36:35
+{'voltage_mv': 236798, 'current_ma': 49, 'power_mw': 4969, 'total_wh': 105}
+Time:         2019-03-27 15:37:36
+{'voltage_mv': 236823, 'current_ma': 45, 'power_mw': 4984, 'total_wh': 105}
+Time:         2019-03-27 15:38:36
+{'voltage_mv': 236964, 'current_ma': 46, 'power_mw': 4966, 'total_wh': 105}
+Time:         2019-03-27 15:39:36
+{'voltage_mv': 236823, 'current_ma': 43, 'power_mw': 4668, 'total_wh': 105}
+Time:         2019-03-27 15:40:36
+{'voltage_mv': 236574, 'current_ma': 44, 'power_mw': 4735, 'total_wh': 105}
+Time:         2019-03-27 15:41:36
+{'voltage_mv': 236186, 'current_ma': 43, 'power_mw': 4722, 'total_wh': 105}
+Time:         2019-03-27 15:42:36
+{'voltage_mv': 236443, 'current_ma': 41, 'power_mw': 4531, 'total_wh': 105}
+Time:         2019-03-27 15:43:36
+{'voltage_mv': 236210, 'current_ma': 39, 'power_mw': 4081, 'total_wh': 105}
+Time:         2019-03-27 15:45:36
+{'voltage_mv': 236541, 'current_ma': 39, 'power_mw': 4027, 'total_wh': 105}
+Time:         2019-03-27 15:46:36
+{'voltage_mv': 236277, 'current_ma': 39, 'power_mw': 4186, 'total_wh': 106}
+Time:         2019-03-27 15:47:37
+{'voltage_mv': 236228, 'current_ma': 38, 'power_mw': 3938, 'total_wh': 106}
+Time:         2019-03-27 15:48:36
+{'voltage_mv': 236564, 'current_ma': 39, 'power_mw': 4265, 'total_wh': 106}
+Time:         2019-03-27 15:49:36
+{'voltage_mv': 236747, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:50:37
+{'voltage_mv': 236746, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:51:36
+{'voltage_mv': 236880, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:52:36
+{'voltage_mv': 236738, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:53:37
+{'voltage_mv': 237067, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:54:37
+{'voltage_mv': 237145, 'current_ma': 16, 'power_mw': 0, 'total_wh': 106}
+Time:         2019-03-27 15:55:37
+{'voltage_mv': 236993, 'current_ma': 191, 'power_mw': 1929, 'total_wh': 106}
+Time:         2019-03-27 15:56:36
+{'voltage_mv': 237157, 'current_ma': 201, 'power_mw': 21490, 'total_wh': 106}
+Time:         2019-03-27 15:57:37
+{'voltage_mv': 237096, 'current_ma': 418, 'power_mw': 41653, 'total_wh': 107}
+Time:         2019-03-27 15:58:38
+{'voltage_mv': 237091, 'current_ma': 16, 'power_mw': 0, 'total_wh': 107}
+Time:         2019-03-27 15:59:37
+{'voltage_mv': 237026, 'current_ma': 218, 'power_mw': 23008, 'total_wh': 108}
+Time:         2019-03-27 16:00:37
+{'voltage_mv': 237035, 'current_ma': 378, 'power_mw': 38111, 'total_wh': 108}
+Time:         2019-03-27 16:01:36
+{'voltage_mv': 237337, 'current_ma': 363, 'power_mw': 36350, 'total_wh': 109}
+Time:         2019-03-27 16:02:37
+{'voltage_mv': 237266, 'current_ma': 362, 'power_mw': 36987, 'total_wh': 110}
+Time:         2019-03-27 16:03:36
+{'voltage_mv': 237122, 'current_ma': 347, 'power_mw': 35145, 'total_wh': 110}
+Time:         2019-03-27 16:04:36
+{'voltage_mv': 237150, 'current_ma': 304, 'power_mw': 31074, 'total_wh': 111}
+Time:         2019-03-27 16:05:37
+{'voltage_mv': 236797, 'current_ma': 305, 'power_mw': 30785, 'total_wh': 111}
+Time:         2019-03-27 16:06:36
+{'voltage_mv': 237643, 'current_ma': 273, 'power_mw': 28051, 'total_wh': 112}
+Time:         2019-03-27 16:07:36
+{'voltage_mv': 237438, 'current_ma': 261, 'power_mw': 26719, 'total_wh': 112}
+Time:         2019-03-27 16:08:36
+{'voltage_mv': 237223, 'current_ma': 268, 'power_mw': 27563, 'total_wh': 113}
+Time:         2019-03-27 16:09:35
+{'voltage_mv': 237271, 'current_ma': 259, 'power_mw': 26132, 'total_wh': 113}
+Time:         2019-03-27 16:10:36
+{'voltage_mv': 237017, 'current_ma': 249, 'power_mw': 25225, 'total_wh': 114}
+Time:         2019-03-27 16:11:35
+{'voltage_mv': 237082, 'current_ma': 245, 'power_mw': 24648, 'total_wh': 114}
+Time:         2019-03-27 16:12:36
+{'voltage_mv': 237462, 'current_ma': 239, 'power_mw': 23973, 'total_wh': 114}
+Time:         2019-03-27 16:13:35
+{'voltage_mv': 237376, 'current_ma': 234, 'power_mw': 23507, 'total_wh': 115}
+Time:         2019-03-27 16:14:35
+{'voltage_mv': 237425, 'current_ma': 270, 'power_mw': 27048, 'total_wh': 115}
+Time:         2019-03-27 16:15:35
+{'voltage_mv': 237488, 'current_ma': 32, 'power_mw': 3124, 'total_wh': 115}
+Time:         2019-03-27 16:16:35
+{'voltage_mv': 237503, 'current_ma': 31, 'power_mw': 3039, 'total_wh': 115}
+Time:         2019-03-27 16:17:35
+{'voltage_mv': 237527, 'current_ma': 51, 'power_mw': 5531, 'total_wh': 116}
+Time:         2019-03-27 16:18:36
+{'voltage_mv': 237406, 'current_ma': 33, 'power_mw': 3058, 'total_wh': 116}
+Time:         2019-03-27 16:19:35
+{'voltage_mv': 237490, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:20:36
+{'voltage_mv': 237509, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:21:35
+{'voltage_mv': 237620, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:22:36
+{'voltage_mv': 237422, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:23:36
+{'voltage_mv': 237306, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:24:36
+{'voltage_mv': 237182, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:25:35
+{'voltage_mv': 237329, 'current_ma': 16, 'power_mw': 0, 'total_wh': 116}
+Time:         2019-03-27 16:26:35

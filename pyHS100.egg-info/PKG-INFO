@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pyHS100
+Version: 0.3.4
+Summary: Interface for TPLink HS1xx plugs, HS2xx wall switches & LB1xx bulbs
+Home-page: https://github.com/GadgetReactor/pyHS100
+Author: Sean Seah (GadgetReactor)
+Author-email: sean@gadgetreactor.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.4
